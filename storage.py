@@ -29,7 +29,7 @@ def save_store(store: dict) -> None:
 def update_and_filter(scored_opportunities: list[dict]) -> list[dict]:
     """
     scored_opportunities: list of dicts with at least
-        {"theme_key": str, "score": float, ...}
+        {"theme_key": str, "overall_score": float, ...}
 
     Returns only the ones worth telling the user about today:
     - brand new themes, or
@@ -49,14 +49,14 @@ def update_and_filter(scored_opportunities: list[dict]) -> list[dict]:
                 "first_seen": today,
                 "last_seen": today,
                 "mention_count": 1,
-                "best_score": opp["score"],
+                "best_score": opp["overall_score"],
             }
             opp["status"] = "NEW"
             to_report.append(opp)
         else:
             prior["mention_count"] += 1
             prior["last_seen"] = today
-            prior["best_score"] = max(prior["best_score"], opp["score"])
+            prior["best_score"] = max(prior["best_score"], opp["overall_score"])
             # Only re-surface if it's trending (more mentions since last time)
             if today != prior.get("last_reported_on"):
                 opp["status"] = f"TRENDING (seen {prior['mention_count']}x total)"
