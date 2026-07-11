@@ -25,7 +25,7 @@ if [ -z "${GH_TOKEN:-}" ]; then
 fi
 export GH_TOKEN
 
-required=(ANTHROPIC_API_KEY GMAIL_ADDRESS GMAIL_APP_PASSWORD DIGEST_TO_ADDRESS)
+required=(GEMINI_API_KEY GMAIL_ADDRESS GMAIL_APP_PASSWORD DIGEST_TO_ADDRESS)
 missing=()
 for var in "${required[@]}"; do
   if [ -z "${!var:-}" ]; then

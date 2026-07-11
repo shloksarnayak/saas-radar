@@ -1,30 +1,35 @@
 """
-Sends raw collected posts/comments to Claude in batches. Claude:
+Sends raw collected posts/comments to Gemini in batches. Gemini:
   1. filters out noise (not every post with a keyword match is a real pain point)
   2. extracts a normalized "theme" (so duplicates across sources merge)
   3. scores it 0-10 on: payment_signal, frequency_signal, competition_gap
-  4. uses web search to sanity-check whether obvious existing tools already solve it
+  4. uses Google Search grounding to sanity-check whether obvious existing tools
+     already solve it
 
-Needs env var: ANTHROPIC_API_KEY
+Needs env var: GEMINI_API_KEY
+(Using Gemini instead of Claude here specifically because Anthropic's console
+billing doesn't support UPI/Indian payment methods -- Gemini's billing does.)
 """
 import os
 import json
-import anthropic
+from google import genai
+from google.genai import types
 from config import MAX_ITEMS_PER_RUN, MIN_SCORE_TO_REPORT
 
-MODEL = "claude-sonnet-4-5"
+MODEL = "gemini-2.5-flash"
 
 SYSTEM_PROMPT = """You are a market-research analyst for a bootstrapped SaaS founder.
-You will be given a batch of raw, informal posts/comments scraped from Reddit and \
-Hacker News. Each one matched a keyword suggesting a complaint or unmet need, but many \
-are noise (jokes, unrelated context, vague venting with no real problem).
+You will be given a batch of raw, informal posts/comments scraped from Reddit, \
+Hacker News, Indie Hackers, and Product Hunt. Each one matched a keyword suggesting \
+a complaint or unmet need, but many are noise (jokes, unrelated context, vague \
+venting with no real problem).
 
 For each item that describes a GENUINE, SPECIFIC recurring problem someone has \
 (not vague venting), do the following:
 1. Write a short normalized "theme_key" (3-6 words, lowercase, hyphenated) that would be \
    IDENTICAL for two posts describing the same underlying problem, so duplicates merge.
 2. Write a one-sentence plain-English description of the problem.
-3. Use web search briefly if useful to sanity-check whether well-known SaaS tools already \
+3. Use Google Search briefly if useful to sanity-check whether well-known SaaS tools already \
    solve this well (affects competition_gap score).
 4. Score 0-10 on each:
    - payment_signal: evidence people already pay for a workaround / manual service / spreadsheet
@@ -49,7 +54,7 @@ def score_items(raw_items: list[dict]) -> list[dict]:
         return []
 
     raw_items = raw_items[:MAX_ITEMS_PER_RUN]
-    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
     results = []
     for batch in _chunk(raw_items, 20):
@@ -58,22 +63,17 @@ def score_items(raw_items: list[dict]) -> list[dict]:
             for it in batch
         ]
 
-        message = client.messages.create(
+        response = client.models.generate_content(
             model=MODEL,
-            max_tokens=4000,
-            system=SYSTEM_PROMPT,
-            tools=[{"type": "web_search_20250305", "name": "web_search"}],
-            messages=[{
-                "role": "user",
-                "content": f"Batch of {len(batch)} items:\n\n{json.dumps(batch_payload, indent=2)}"
-            }],
+            contents=f"Batch of {len(batch)} items:\n\n{json.dumps(batch_payload, indent=2)}",
+            config=types.GenerateContentConfig(
+                system_instruction=SYSTEM_PROMPT,
+                tools=[types.Tool(google_search=types.GoogleSearch())],
+            ),
         )
 
-        # Pull out only the final text block(s); web_search tool_use/tool_result
-        # blocks are handled server-side and interleaved automatically.
-        text_out = "".join(
-            block.text for block in message.content if block.type == "text"
-        ).strip()
+        # Grounding tool calls happen server-side; response.text is the final answer.
+        text_out = (response.text or "").strip()
 
         # Be lenient about accidental markdown fencing
         text_out = text_out.replace("```json", "").replace("```", "").strip()
