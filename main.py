@@ -6,6 +6,7 @@ Entry point. Run this daily (GitHub Actions handles the schedule automatically).
 from collectors.reddit_collector import collect_reddit_items
 from collectors.hn_collector import collect_hn_items
 from collectors.indiehackers_collector import collect_indiehackers_items
+from collectors.producthunt_collector import collect_producthunt_items
 from scorer import score_items
 from storage import update_and_filter
 from notifier import send_digest
@@ -24,7 +25,11 @@ def main():
     ih_items = collect_indiehackers_items()
     print(f"[main] got {len(ih_items)} candidate items from Indie Hackers")
 
-    all_items = reddit_items + hn_items + ih_items
+    print("[main] collecting from Product Hunt...")
+    ph_items = collect_producthunt_items()
+    print(f"[main] got {len(ph_items)} candidate items from Product Hunt")
+
+    all_items = reddit_items + hn_items + ih_items + ph_items
     print(f"[main] scoring {len(all_items)} total items with Claude...")
     scored = score_items(all_items)
     print(f"[main] {len(scored)} items cleared the score bar")
