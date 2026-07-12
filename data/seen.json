@@ -120,10 +120,10 @@
   },
   "imac-target-display-mode-alternative": {
     "first_seen": "2026-07-11",
-    "last_seen": "2026-07-11",
-    "mention_count": 1,
+    "last_seen": "2026-07-12",
+    "mention_count": 2,
     "best_score": 7.0,
-    "last_reported_on": "2026-07-11"
+    "last_reported_on": "2026-07-12"
   },
   "spoken-content-search-curation": {
     "first_seen": "2026-07-11",
@@ -222,5 +222,103 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-07-11"
+  },
+  "automated-ui-test-healing": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-12"
+  },
+  "codebase-navigation-understanding-tool": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-12"
+  },
+  "simplifying-local-llm-coding-agents": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-12"
+  },
+  "manual-llm-coding-workflow": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-12"
+  },
+  "adaptive-abstraction-creative-tools": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-12"
+  },
+  "simple-uncomplicated-workout-tracker": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-12"
+  },
+  "ethical-residential-proxy-sourcing": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-12"
+  },
+  "atproto-domain-migration-manual": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-12"
+  },
+  "streamlined-gm-organization-tool": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-12"
+  },
+  "career-tech-learning-path-guidance": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-12"
+  },
+  "ai-agent-actionable-crm-integration": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-12"
+  },
+  "consistent-ruby-concurrency-api": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-12"
+  },
+  "local-private-session-recording": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-12"
+  },
+  "llm-bias-censorship-detection": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-12",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-12"
   }
 }
