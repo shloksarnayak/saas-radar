@@ -516,5 +516,187 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-07-13"
+  },
+  "ai-agent-approval-auditing": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-15"
+  },
+  "product-analytics-for-ai-agents": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-15"
+  },
+  "io-link-device-interaction-tools": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-15"
+  },
+  "ai-knowledge-base-from-conversations": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-15"
+  },
+  "ai-agent-context-window-management": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-15"
+  },
+  "automate-dev-workflow-from-chat": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-15"
+  },
+  "integrated-browser-creative-suite": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-15"
+  },
+  "browser-side-video-generation": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-15"
+  },
+  "granular-automated-work-tracking": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-15"
+  },
+  "self-hosted-meeting-notes-tool": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-15"
+  },
+  "developer-experience-ai-agents": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-15"
+  },
+  "ai-agent-cost-monitoring": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-15"
+  },
+  "ai-agent-memory-management": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-15"
+  },
+  "affordable-third-party-accessibility-audit": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-15"
+  },
+  "ai-agent-action-security": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-15"
+  },
+  "ai-powered-oss-discovery": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-15"
+  },
+  "git-to-social-media-marketing": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-15"
+  },
+  "aws-sso-session-management": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-15"
+  },
+  "bootstrapped-saas-user-acquisition": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-15"
+  },
+  "product-discovery-methodology": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-15"
+  },
+  "manage-multiple-git-repositories": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-15"
+  },
+  "smooth-ebook-reading-server": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-15"
+  },
+  "cli-dev-workflow-management": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-15"
+  },
+  "fast-custom-search-bangs": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-15"
+  },
+  "ai-agent-collaborative-sessions": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-15"
+  },
+  "adaptive-mobile-text-input": {
+    "first_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-15"
   }
 }
