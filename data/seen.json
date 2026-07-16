@@ -698,5 +698,173 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-07-15"
+  },
+  "adaptive-athletic-training-plan": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-07-16"
+  },
+  "postgres-plpgsql-performance": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "optimize-ai-token-usage": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "multi-agent-workflow-management": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 2,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "zero-signature-waf-security": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "product-user-personalization-platform": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "rust-incremental-build-caching": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "personalized-health-habit-assistant": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "user-driven-product-customization": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-16"
+  },
+  "ai-adaptive-training-plans": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "manage-ai-workflows-across-tools": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "manage-private-oss-assets": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "track-ai-api-usage-limits": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "database-dev-collaboration": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-16"
+  },
+  "personalized-fitness-effort-tracking": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-16"
+  },
+  "private-self-hosted-finance-tracking": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-16"
+  },
+  "design-interactive-maps-data": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-16"
+  },
+  "manage-ai-workflows-prompts": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-16"
+  },
+  "ui-for-ai-workflow-editors": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-16"
+  },
+  "high-performance-thread-pools": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-16"
+  },
+  "agent-code-review-visibility": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "find-sunny-shady-outdoor-spots": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-16"
+  },
+  "ai-doc-to-presentation-conversion": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-16"
+  },
+  "creative-domain-name-generation": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-16",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-16"
   }
 }
