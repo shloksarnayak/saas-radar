@@ -866,5 +866,201 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-07-16"
+  },
+  "sbom-vulnerability-detection-no-source": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-17"
+  },
+  "security-penetration-test-reporting": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "ai-plagiarism-detection-false-positives": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "ai-agent-context-bloat-cost": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "adaptive-rpa-for-legacy-apps": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "ai-chatbot-overly-broad-safeguards": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "interactive-technical-domain-training": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "remote-server-disk-visualization": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 2,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-17"
+  },
+  "non-sharded-db-scaling": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-17"
+  },
+  "simplified-cdc-data-ingestion": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-17"
+  },
+  "local-ai-meeting-transcription": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-17"
+  },
+  "affordable-ai-docs-platform": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-17"
+  },
+  "blogger-seo-content-suite": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-17"
+  },
+  "penetration-test-report-automation": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-17"
+  },
+  "new-product-initial-exposure": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "complex-codebase-ai-context-limits": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "domain-specific-simulation-learning": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "personal-ai-stack-builder": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "friction-free-text-sharing": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "ai-prompt-workflow-management": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "custom-white-label-ai-app-builder": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-17"
+  },
+  "ai-overly-broad-safety-safeguards": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-17"
+  },
+  "streamline-screenshot-ai-feedback": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-17"
+  },
+  "ai-plugin-platform-limitations": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-17"
+  },
+  "linux-hardware-driver-fragmentation": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-17"
+  },
+  "high-performance-thread-pool": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-17"
+  },
+  "ai-code-context-management": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-17"
+  },
+  "batch-data-ingestion-limitations": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-17",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-17"
   }
 }
