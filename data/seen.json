@@ -890,10 +890,10 @@
   },
   "ai-agent-context-bloat-cost": {
     "first_seen": "2026-07-17",
-    "last_seen": "2026-07-17",
-    "mention_count": 1,
+    "last_seen": "2026-07-18",
+    "mention_count": 2,
     "best_score": 8.0,
-    "last_reported_on": "2026-07-17"
+    "last_reported_on": "2026-07-18"
   },
   "adaptive-rpa-for-legacy-apps": {
     "first_seen": "2026-07-17",
@@ -932,10 +932,10 @@
   },
   "simplified-cdc-data-ingestion": {
     "first_seen": "2026-07-17",
-    "last_seen": "2026-07-17",
-    "mention_count": 1,
-    "best_score": 7.7,
-    "last_reported_on": "2026-07-17"
+    "last_seen": "2026-07-18",
+    "mention_count": 2,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-18"
   },
   "local-ai-meeting-transcription": {
     "first_seen": "2026-07-17",
@@ -1062,5 +1062,187 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-07-17"
+  },
+  "supervising-complex-ai-agent-workflows": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-18"
+  },
+  "project-management-for-ai-agents": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-18"
+  },
+  "ai-agent-plugin-ecosystem-ui": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-18"
+  },
+  "classify-ssh-attack-campaigns": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "domain-specific-training-tools": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "ai-integrated-developer-docs": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "fitness-reengagement-motivation": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "ai-agent-data-security-vulnerability": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "ssh-honeypot-data-analysis": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "no-source-sbom-vulnerability-detection": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-18"
+  },
+  "consistent-ai-marketing-content": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-18"
+  },
+  "private-company-data-aggregation": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-18"
+  },
+  "penetration-test-report-generation": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-18"
+  },
+  "local-private-meeting-transcription": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-18"
+  },
+  "real-time-feature-flag-analytics": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-18"
+  },
+  "getting-initial-product-users": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "unified-ai-agent-orchestration": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "screenless-ai-output-printing": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "self-hosted-meeting-notes": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "typst-compilation-wasm-serverless": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "svg-self-drawing-animation": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "app-performance-slow-internet": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-18"
+  },
+  "go-native-gui-development": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-18"
+  },
+  "ai-tool-cli-barrier-non-tech": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-18"
+  },
+  "ai-safety-overreach-dev-projects": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-18"
+  },
+  "remote-disk-visualization": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-18"
   }
 }
