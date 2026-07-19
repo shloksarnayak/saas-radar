@@ -1107,10 +1107,10 @@
   },
   "fitness-reengagement-motivation": {
     "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "mention_count": 1,
+    "last_seen": "2026-07-19",
+    "mention_count": 2,
     "best_score": 8.0,
-    "last_reported_on": "2026-07-18"
+    "last_reported_on": "2026-07-19"
   },
   "ai-agent-data-security-vulnerability": {
     "first_seen": "2026-07-18",
@@ -1191,10 +1191,10 @@
   },
   "self-hosted-meeting-notes": {
     "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "mention_count": 1,
+    "last_seen": "2026-07-19",
+    "mention_count": 2,
     "best_score": 7.0,
-    "last_reported_on": "2026-07-18"
+    "last_reported_on": "2026-07-19"
   },
   "typst-compilation-wasm-serverless": {
     "first_seen": "2026-07-18",
@@ -1212,10 +1212,10 @@
   },
   "app-performance-slow-internet": {
     "first_seen": "2026-07-18",
-    "last_seen": "2026-07-18",
-    "mention_count": 1,
-    "best_score": 6.7,
-    "last_reported_on": "2026-07-18"
+    "last_seen": "2026-07-19",
+    "mention_count": 2,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-19"
   },
   "go-native-gui-development": {
     "first_seen": "2026-07-18",
@@ -1244,5 +1244,138 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-07-18"
+  },
+  "multi-ai-agent-management": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-19"
+  },
+  "ai-long-term-memory": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-19"
+  },
+  "ai-agent-optimized-issue-tracker": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-19"
+  },
+  "ai-guided-idea-validation": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-19"
+  },
+  "unified-agent-service-orchestration": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-19"
+  },
+  "ai-agent-prompt-injection-security": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-19"
+  },
+  "ai-project-failure-diagnosis": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-19"
+  },
+  "automated-activity-video-editing": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-19"
+  },
+  "ssh-attack-pattern-analysis": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-19"
+  },
+  "automate-ai-music-video-creation": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-19"
+  },
+  "manual-data-fixing-observability": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-19"
+  },
+  "imessage-agent-integration": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-19"
+  },
+  "automate-activity-video-editing": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-19"
+  },
+  "llm-agent-workflow-observability": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-19"
+  },
+  "low-quality-ceu-content": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-19"
+  },
+  "ai-developer-tool-onboarding": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-19"
+  },
+  "formalize-natural-language-logic": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-19"
+  },
+  "private-non-budget-finance-app": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-19"
+  },
+  "voice-assistant-unsuitable-output": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-07-19",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-19"
   }
 }
