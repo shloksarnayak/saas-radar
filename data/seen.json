@@ -1566,5 +1566,236 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-07-20"
+  },
+  "automated-database-optimization-dba": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-21"
+  },
+  "ai-coding-assistant-persistent-memory": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-21"
+  },
+  "personal-ai-agent-privacy-flexibility": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-21"
+  },
+  "semantic-model-interoperability-etl": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-21"
+  },
+  "ai-coding-agent-persistent-memory": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-21"
+  },
+  "sql-institutional-knowledge-transfer": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-21"
+  },
+  "sql-query-knowledge-transfer": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-21"
+  },
+  "deploy-monitor-trading-bots": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-21"
+  },
+  "cross-platform-e2ee-messaging-adoption": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-21"
+  },
+  "automated-restaurant-website-builder": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-21"
+  },
+  "ai-coding-agent-memory": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-21"
+  },
+  "quick-access-productivity-launcher": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-21"
+  },
+  "ai-tutoring-for-understanding": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-21"
+  },
+  "secure-e2ee-existing-messengers": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-21"
+  },
+  "accurate-ip-geo-location-evasion": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-21"
+  },
+  "secure-local-ai-coding-agent": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-21"
+  },
+  "monitor-primary-news-sources": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-21"
+  },
+  "sourcing-ai-goldset-experts": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-21"
+  },
+  "gifted-student-personalized-education": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-21"
+  },
+  "undervalued-domain-discovery": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-21"
+  },
+  "llm-chain-of-thought-visibility": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-21"
+  },
+  "teacher-differentiated-instruction-scalability": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-21"
+  },
+  "validate-orchestrate-ai-output": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-21"
+  },
+  "on-device-live-captions-hearing-impaired": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-21"
+  },
+  "ai-generated-study-questions-scheduler": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-21"
+  },
+  "deep-search-across-bookmarks": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-21"
+  },
+  "secure-local-first-productivity": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-21"
+  },
+  "ai-overreliance-workflow-issues": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-21"
+  },
+  "windows-persistent-terminal-sessions": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-21"
+  },
+  "ai-generated-id-headshots": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-21"
+  },
+  "fragmented-personal-work-data": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-21"
+  },
+  "qa-platform-user-expectations": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-21"
+  },
+  "ai-agent-website-content-accuracy": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-21"
   }
 }
