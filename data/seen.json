@@ -1709,10 +1709,10 @@
   },
   "llm-chain-of-thought-visibility": {
     "first_seen": "2026-07-21",
-    "last_seen": "2026-07-21",
-    "mention_count": 1,
+    "last_seen": "2026-07-22",
+    "mention_count": 2,
     "best_score": 7.0,
-    "last_reported_on": "2026-07-21"
+    "last_reported_on": "2026-07-22"
   },
   "teacher-differentiated-instruction-scalability": {
     "first_seen": "2026-07-21",
@@ -1797,5 +1797,271 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-07-21"
+  },
+  "local-private-ai-notetaker": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 9.3,
+    "last_reported_on": "2026-07-22"
+  },
+  "ai-agent-provenance-tracking": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "ai-agent-data-safety-auditing": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "automated-rag-pipeline-optimization": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "developer-knowledge-context-loss": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "automated-help-center-updates": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "llm-coding-agent-memory": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "flexible-task-planning-commitment": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "verifiable-developer-credentials": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "long-running-ai-agent-compute": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "ai-driven-ui-ux-design": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "ai-code-review-efficiency": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "insecure-pdf-redaction": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "manual-flashcard-creation": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "ai-vector-art-generation": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "bash-script-debugging-web": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "llm-narrative-mechanics-system": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "llm-chat-history-organization": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "ai-agent-decision-brief-platform": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "audio-read-it-later-overload": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "automated-video-face-blurring": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-22"
+  },
+  "light-client-onboarding-context": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "unauthorized-package-release-detection": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "ai-agent-browser-control": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 2,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "secure-messenger-adoption-barrier": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "llm-code-review-insights": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "text-based-data-workflow-limitations": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "amazon-review-trust-analysis": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "flexible-task-scheduling": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "dynamic-pricing-geo-targeting": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "human-ai-decision-loop": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "audio-backlog-consumption": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "ai-diffusion-web-design": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "fake-ai-engagement-detection": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "scattered-personal-data": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-22"
+  },
+  "ed25519-key-encoding-conversion": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-22"
+  },
+  "github-api-data-inconsistency": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-22"
+  },
+  "cross-platform-virtual-lan": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-07-22",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-22"
   }
 }
