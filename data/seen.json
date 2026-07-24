@@ -2308,5 +2308,236 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-07-23"
+  },
+  "secure-ai-agent-secrets-management": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 9.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "ai-agent-context-computer-activity": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-07-24"
+  },
+  "llm-discernment-strategic-advice": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "ai-model-orchestration-optimization": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "llm-nuance-verified-knowledge": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "digital-knowledge-capture-utility": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "embeddable-content-creation-tools": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-24"
+  },
+  "ai-agent-context-automation": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-24"
+  },
+  "secure-ai-ml-model-deployment": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-24"
+  },
+  "self-hosted-llm-routing-cost-transparency": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-24"
+  },
+  "interactive-active-learning-tutorials": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "ai-video-editor-integration-workflow": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "manual-developer-environment-setup": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "long-tail-content-creation-gap": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "dev-environment-isolation-management": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "managing-combining-multiple-ai-models": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "lightweight-product-demo-recording": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "long-tail-content-glossary-workflow": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-24"
+  },
+  "scale-sql-impossible-tables": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-24"
+  },
+  "api-data-to-mobile-widgets": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-24"
+  },
+  "remote-ai-coding-agent-management": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-24"
+  },
+  "manage-digital-distractions-focus": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-24"
+  },
+  "client-side-pdf-editing-privacy": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-24"
+  },
+  "passive-time-tracking-accuracy-features": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-24"
+  },
+  "lightweight-ai-email-client-windows": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-24"
+  },
+  "trustworthy-financial-prediction-scoring": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-24"
+  },
+  "open-source-private-repo-friendly-github-alternative": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-24"
+  },
+  "artist-portfolio-discoverability": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-24"
+  },
+  "bloated-desktop-email-clients": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-24"
+  },
+  "agnostic-artifact-sharing-tracking": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-24"
+  },
+  "binaural-beats-in-tune-with-music": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-24"
+  },
+  "secure-offline-message-encryption": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-24"
+  },
+  "maintained-text-based-web-browser": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-24",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-24"
   }
 }
