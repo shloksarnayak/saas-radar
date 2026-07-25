@@ -2539,5 +2539,194 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-07-24"
+  },
+  "private-ai-meeting-notes-actions": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-07-25"
+  },
+  "consistent-llm-frontend-ui-generation": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-25"
+  },
+  "budget-first-trip-planning": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-25"
+  },
+  "software-personalization-lack": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-25"
+  },
+  "scattered-information-recall-utility": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-25"
+  },
+  "ai-coding-client-vendor-lockin": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-25"
+  },
+  "ai-coding-assistant-usage-analytics": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-25"
+  },
+  "affordable-transcript-based-video-editing": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-25"
+  },
+  "integrated-image-metadata-optimizer": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-25"
+  },
+  "document-sensitivity-classification": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-25"
+  },
+  "private-cost-effective-ai-coding-agent": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-25"
+  },
+  "ai-agent-ssh-interaction": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-25"
+  },
+  "meeting-action-item-tracking-private": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-25"
+  },
+  "mobile-friendly-remote-dev-environment-access": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-25"
+  },
+  "remote-startup-job-matching-non-us": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-25"
+  },
+  "private-bank-sync-personal-finance": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-25"
+  },
+  "startup-equity-tax-modeling": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-25"
+  },
+  "pre-booking-trip-budget-validation": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-25"
+  },
+  "ai-code-quality-assurance": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-25"
+  },
+  "mobile-dev-remote-desktop": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-25"
+  },
+  "affordable-transcript-video-editing": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-25"
+  },
+  "advanced-mobile-voice-input": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-25"
+  },
+  "rapid-ai-prototype-deployment": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-25"
+  },
+  "project-migration-tooling": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-25"
+  },
+  "sim-racing-telemetry-analysis": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-25"
+  },
+  "mbox-file-viewer-web": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-25"
+  },
+  "global-news-diversity": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-25"
   }
 }
