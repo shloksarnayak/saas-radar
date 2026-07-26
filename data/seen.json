@@ -2710,10 +2710,10 @@
   },
   "sim-racing-telemetry-analysis": {
     "first_seen": "2026-07-25",
-    "last_seen": "2026-07-25",
-    "mention_count": 1,
+    "last_seen": "2026-07-26",
+    "mention_count": 2,
     "best_score": 6.3,
-    "last_reported_on": "2026-07-25"
+    "last_reported_on": "2026-07-26"
   },
   "mbox-file-viewer-web": {
     "first_seen": "2026-07-25",
@@ -2728,5 +2728,243 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-07-25"
+  },
+  "ai-agent-dev-cost-privacy": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-26"
+  },
+  "ai-coding-usage-optimization": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-07-26"
+  },
+  "flexible-web-deployment-platform": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-26"
+  },
+  "ai-agentic-dev-large-codebase": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-26"
+  },
+  "web-app-deployment-optimization": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-26"
+  },
+  "ai-assisted-prototype-to-production": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-26"
+  },
+  "pharma-drug-candidate-selection": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-07-26"
+  },
+  "caregiving-chat-to-feed": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-26"
+  },
+  "terminal-ai-assistant-integration": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-26"
+  },
+  "openai-compatible-llm-features": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-26"
+  },
+  "voice-ai-payment-integration": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-07-26"
+  },
+  "ai-coding-agent-management": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-26"
+  },
+  "weather-based-travel-planner": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-26"
+  },
+  "affordable-transcript-based-editing": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-26"
+  },
+  "private-bank-sync-pfm": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-07-26"
+  },
+  "markdown-editor-web-component": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-26"
+  },
+  "ai-agent-session-management": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-26"
+  },
+  "multi-arch-release-coordination": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-07-26"
+  },
+  "high-dimensional-data-indexing": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-26"
+  },
+  "ai-agent-project-control": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-26"
+  },
+  "macos-focus-follows-mouse": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-26"
+  },
+  "monetize-idle-gpu-compute": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-26"
+  },
+  "complex-narrative-text-analysis": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-26"
+  },
+  "ai-landing-page-creation": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-26"
+  },
+  "apple-integrated-sticky-notes": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-26"
+  },
+  "remote-startup-jobs-non-us": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-07-26"
+  },
+  "open-source-tool-promotion": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-26"
+  },
+  "lightweight-markdown-webcomponent": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-26"
+  },
+  "macos-window-rotation": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-26"
+  },
+  "mobile-remote-dev-ai-agents": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-07-26"
+  },
+  "lightweight-document-conversion": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-26"
+  },
+  "minimalist-weather-data": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-26"
+  },
+  "accurate-golf-course-directory": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-26"
+  },
+  "minimalist-weather-information": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-07-26"
   }
 }
