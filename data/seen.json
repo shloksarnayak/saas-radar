@@ -2966,5 +2966,166 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-07-26"
+  },
+  "python-performance-optimization": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-03"
+  },
+  "precise-search-engine-alternatives": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-03"
+  },
+  "modern-web-scraping-difficulty": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-03"
+  },
+  "ai-requirements-management": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-03"
+  },
+  "ai-code-style-enforcement": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-03"
+  },
+  "ai-pet-activity-summary": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-03"
+  },
+  "llm-code-style-consistency": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-03"
+  },
+  "ai-agent-workflow-management": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 2,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-03"
+  },
+  "robust-job-queue-solution": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-03"
+  },
+  "python-performance-optimization-rust": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-03"
+  },
+  "ai-code-ownership-testing": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-03"
+  },
+  "ai-pet-activity-monitoring": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-03"
+  },
+  "pdf-to-web-document-conversion": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-03"
+  },
+  "ai-filtered-task-management": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-03"
+  },
+  "grammar-specific-language-content": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-03"
+  },
+  "youtube-playlist-course-creator": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-03"
+  },
+  "macos-desktop-audio-capture": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-03"
+  },
+  "llm-rate-limit-proxy": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-03"
+  },
+  "mobile-cli-speech-text-input": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-03"
+  },
+  "native-contacts-crm-extension": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-03"
+  },
+  "pdf-to-web-document-reader": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-03"
+  },
+  "e-ink-device-app-development-sdk": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-03"
+  },
+  "macos-cli-on-linux-arm": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-03",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-03"
   }
 }
