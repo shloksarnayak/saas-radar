@@ -2976,10 +2976,10 @@
   },
   "precise-search-engine-alternatives": {
     "first_seen": "2026-08-03",
-    "last_seen": "2026-08-03",
-    "mention_count": 1,
+    "last_seen": "2026-08-05",
+    "mention_count": 2,
     "best_score": 8.3,
-    "last_reported_on": "2026-08-03"
+    "last_reported_on": "2026-08-05"
   },
   "modern-web-scraping-difficulty": {
     "first_seen": "2026-08-03",
@@ -3393,5 +3393,222 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-08-04"
+  },
+  "complex enterprise agent reliability": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-05"
+  },
+  "static llm benchmarks, lack of domain understanding": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-05"
+  },
+  "cloud agent qa and visual verification": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-05"
+  },
+  "ai-code-quality-integration": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-05"
+  },
+  "coding agent deviates from requirements": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-05"
+  },
+  "coding agent loses context, focus": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-05"
+  },
+  "validating app concepts, finding underserved niches": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-05"
+  },
+  "manual resume screening and interview prep": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-05"
+  },
+  "consolidated-distraction-free-market-info": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-05"
+  },
+  "improved-human-code-review-readability": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-05"
+  },
+  "ide-for-ai-agent-development": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-05"
+  },
+  "go-in-process-pii-detection": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-05"
+  },
+  "fragmented market data and news": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-05"
+  },
+  "large-scale llm agent project management": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-05"
+  },
+  "reproducible agent environments and cicd": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-05"
+  },
+  "humanizing-ai-code-for-acceptance": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-05"
+  },
+  "dynamic-adaptive-course-platforms": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-05"
+  },
+  "integrated-notes-and-tasks": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-05"
+  },
+  "llc-compliance-reminders": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-05"
+  },
+  "ai-agent-skill-versioning": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-05"
+  },
+  "github star metrics disappearing": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-05"
+  },
+  "slow coding agent execution": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-05"
+  },
+  "repeatable ai agent operational prompts": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-05"
+  },
+  "secure-multi-agent-orchestration": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-05"
+  },
+  "fast-technical-seo-checker": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-05"
+  },
+  "ai-code-error-correction": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-05"
+  },
+  "rss reader overload, lack of curation": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-05"
+  },
+  "optimal data format for llms": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-05"
+  },
+  "categorized-llm-chat-history": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-05"
+  },
+  "summarized-algorithmic-rss-reader": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-05"
+  },
+  "diverse-skin-tone-picker": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-05",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-05"
   }
 }
