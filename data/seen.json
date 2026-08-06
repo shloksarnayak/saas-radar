@@ -3610,5 +3610,292 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-08-05"
+  },
+  "live production debugging": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "permit-ready-building-plans": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "ai-production-debugging-telemetry": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "agent secrets management": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "disposable dev environments": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "ai-agent-session-context-sharing": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "ai-tool-quality-verification": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "focused-writing-ai-git-notes": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "california property tax reduction": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "cloud-billing-cap-needed": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "bootstrapped-saas-marketing-without-social": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "limited-ai-agent-autonomy": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "avoid-cloudflare-vendor-lockin": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "ai-tool-marketplace-proof": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "ios app release workflow": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "python concurrency testing": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "editable interactive landing pages": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "automated-software-tutorial-updates": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "app-store-metrics-dashboard-widget": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "fast-pure-math-chart-rendering": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "atomic-db-state-transitions": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "asynchronous team communication": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "ai agent session context": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "secure temporary data sharing": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "backend-transaction-logic-management": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "temporary-data-sharing-clipboard": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "cross-project-community-communication": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "decentralized-content-syndication": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "shared expenses tracking": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "ai agent app creation": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "terminal ai agent workflow": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "personalized-ai-tool-creation": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "secure-shell-script-obfuscation": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "self-hosted-monitoring-api-roles": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "precise-retro-game-asset-generation": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "privacy-focused-camera-app-alternative": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-06"
+  },
+  "ai-retro-game-asset-generation": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "reliable-ai-dictionary-for-learners": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-06"
+  },
+  "advanced-web-drum-machine": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "multi-desktop terminal workflow": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-06"
+  },
+  "astronomical-event-viewfinder": {
+    "first_seen": "2026-08-06",
+    "last_seen": "2026-08-06",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-08-06"
   }
 }
