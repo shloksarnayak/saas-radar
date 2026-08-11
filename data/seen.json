@@ -4695,5 +4695,187 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-08-10"
+  },
+  "expensive-ai-code-review": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-11"
+  },
+  "automate-financial-data-extraction-transformation": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-11"
+  },
+  "ai-model-irrelevant-function-calls": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-11"
+  },
+  "ai-driven-product-discovery-validation": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-11"
+  },
+  "financial-data-transformation-diligence": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-11"
+  },
+  "automatic-api-breaking-change-refactoring": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-11"
+  },
+  "llm-coding-agent-context-window-management": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-11"
+  },
+  "performant-llms-resource-constrained-edge": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-11"
+  },
+  "live-ui-prototyping-in-code": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-11"
+  },
+  "ai-agent-context-window-efficiency": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-11"
+  },
+  "ai-agent-diagram-interpretation": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-11"
+  },
+  "ai-agent-browser-automation": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-11"
+  },
+  "project-coordination-traceability-agents": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-11"
+  },
+  "inefficient-gpu-server-marketplace": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-11"
+  },
+  "ai-agent-over-prescriptiveness": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-11"
+  },
+  "automated-gameplay-analysis-highlights": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-11"
+  },
+  "accurate-speaker-diarization-meetings": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-11"
+  },
+  "complex-database-app-development": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-11"
+  },
+  "website-to-agent-ready-content": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-11"
+  },
+  "parallel-ai-session-monitoring": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-11"
+  },
+  "influencer-incentive-misalignment": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-11"
+  },
+  "efficient-native-ai-dev-harness": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-11"
+  },
+  "3d-climbing-gym-route-tracking": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-11"
+  },
+  "ai-enhanced-domain-name-discovery": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-11"
+  },
+  "visual-multi-git-repo-management": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-11"
+  },
+  "photo-organization-from-sharing": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-08-11"
   }
 }
