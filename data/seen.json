@@ -5059,5 +5059,215 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-08-12"
+  },
+  "ai-agent-governance-research": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-15"
+  },
+  "custom-outdoor-route-generation": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-15"
+  },
+  "intuitive-home-search": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-15"
+  },
+  "ai-powered-family-workspace": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-15"
+  },
+  "contextual-feedback-ai-agents": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "ai-agent-budget-control": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "fullstack-ai-app-boilerplate": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "post-launch-failure-analysis": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "agentic-business-finance-management": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "ai-design-dev-workflow-broken": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-15"
+  },
+  "ai-design-mockup-collaboration": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-15"
+  },
+  "ai-content-verification": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-15"
+  },
+  "local-private-speech-to-text-network": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-15"
+  },
+  "desktop-ui-automation-for-agents": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-15"
+  },
+  "nats-jetstream-gui": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-15"
+  },
+  "spreadsheet-unmanaged-automation-chaos": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-15"
+  },
+  "understand-deep-user-intent-crawlers": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "ai-research-agent-issues": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "degraded-ai-model-quality": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "ai-managed-mock-api-server": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "unobtrusive-note-taking": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "ai-api-usage-limit-monitoring": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "ai-coding-permission-fatigue-reduction": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "self-hosted-multi-step-api-testing": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-15"
+  },
+  "voice-to-llm-on-the-go": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-15"
+  },
+  "llm-financial-research-backend": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-15"
+  },
+  "manual-lead-outreach-automation": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-15"
+  },
+  "ssd-wear-monitoring-macbook": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "flexible-synth-arpeggio-creator": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-08-15"
+  },
+  "find-specific-book-edition": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-15",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-08-15"
   }
 }
