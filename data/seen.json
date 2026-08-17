@@ -57,10 +57,10 @@
   },
   "ai-token-cost-management": {
     "first_seen": "2026-07-11",
-    "last_seen": "2026-07-11",
-    "mention_count": 1,
+    "last_seen": "2026-08-17",
+    "mention_count": 2,
     "best_score": 7.7,
-    "last_reported_on": "2026-07-11"
+    "last_reported_on": "2026-08-17"
   },
   "ui-test-selector-drift-healing": {
     "first_seen": "2026-07-11",
@@ -5090,10 +5090,10 @@
   },
   "contextual-feedback-ai-agents": {
     "first_seen": "2026-08-15",
-    "last_seen": "2026-08-15",
-    "mention_count": 1,
+    "last_seen": "2026-08-17",
+    "mention_count": 2,
     "best_score": 8.0,
-    "last_reported_on": "2026-08-15"
+    "last_reported_on": "2026-08-17"
   },
   "ai-agent-budget-control": {
     "first_seen": "2026-08-15",
@@ -5528,5 +5528,194 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-08-16"
+  },
+  "human-review-ai-code": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-17"
+  },
+  "affordable-financial-planning": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-17"
+  },
+  "reviewing-large-ai-generated-code": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-17"
+  },
+  "flexible-household-timesheet": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-17"
+  },
+  "customizable-search-ranking": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-17"
+  },
+  "automated-developer-journal": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-17"
+  },
+  "manage-ai-agent-workflows": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-17"
+  },
+  "unified-ai-credit-management": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-17"
+  },
+  "natural-language-ai-alerts": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-17"
+  },
+  "competitor-price-data-api": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-17"
+  },
+  "coding-agent-trading-strategies": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-17"
+  },
+  "manual-process-automation-difficulty": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-17"
+  },
+  "simple-part-data-management": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-17"
+  },
+  "affordable-ats-small-teams": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-17"
+  },
+  "coding-agent-ui-limitations": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-17"
+  },
+  "domain-expert-llm-code-assistance": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-17"
+  },
+  "llm-context-management": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-17"
+  },
+  "ai-assisted-code-review-workflow": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-17"
+  },
+  "automated-test-false-positives": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-17"
+  },
+  "browse-ai-chat-exports": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-17"
+  },
+  "shareable-contextual-flashcards": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-17"
+  },
+  "flexible-employee-time-tracking-payroll": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-17"
+  },
+  "personal-reflective-calendar-journal": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-17"
+  },
+  "tech-news-fomo-filter": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-17"
+  },
+  "fragmented-fitness-tracking": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-17"
+  },
+  "natural-language-transport-filters": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-08-17"
+  },
+  "multi-project-organization-tracking": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-08-17"
   }
 }
