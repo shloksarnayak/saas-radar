@@ -5717,5 +5717,229 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-08-17"
+  },
+  "high-level-ai-agent-oversight": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "ai-automated-incident-response": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-20"
+  },
+  "mobile-ai-agent-privacy": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-20"
+  },
+  "private-mobile-ai-agent-automation": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-20"
+  },
+  "robust-on-device-mobile-ai-agent": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-20"
+  },
+  "ai-credit-portability": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-20"
+  },
+  "ai-agent-file-deletion-protection": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-20"
+  },
+  "ai-agent-crm-governance-audit": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-20"
+  },
+  "finding-durable-non-bloated-electronics": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-20"
+  },
+  "clipboard-transform-automation": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-20"
+  },
+  "complex-organization-coordination": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "llm-cost-and-usage-optimization": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "secure-team-ai-agent-management": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "realistic-workload-visualization": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "relational-db-ml-predictions": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "llm-prompt-management-on-prem": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 2,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-20"
+  },
+  "llm-api-cost-monitoring": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-20"
+  },
+  "portable-python-ml-packaging": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-20"
+  },
+  "ai-resume-screening": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-20"
+  },
+  "internal-ai-tool-sharing": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-20"
+  },
+  "copy-unselectable-screen-text": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-20"
+  },
+  "ai-coding-agent-orchestration": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-20"
+  },
+  "in-browser-wasm-cli-environment": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "dynamic-ai-presentation-sharing": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "cross-os-config-management": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "disposable-email-blocking": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "customizable-hn-notifications": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "developer-utility-collection": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "ats-latex-resume-builder": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "llm-design-prompt-translation": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-20"
+  },
+  "offline-code-free-latex-resume-builder": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-20"
+  },
+  "configurable-multi-account-email-client": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-20"
   }
 }
