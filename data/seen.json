@@ -4096,10 +4096,10 @@
   },
   "unclaimed-music-royalties": {
     "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
-    "mention_count": 1,
+    "last_seen": "2026-08-21",
+    "mention_count": 2,
     "best_score": 8.7,
-    "last_reported_on": "2026-08-08"
+    "last_reported_on": "2026-08-21"
   },
   "offshore-hiring-simplified": {
     "first_seen": "2026-08-08",
@@ -5941,5 +5941,173 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-08-20"
+  },
+  "offline-spatial-rag-field-ops": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-21"
+  },
+  "custom-saas-feature-gaps": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-21"
+  },
+  "secure-ai-agent-management": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-21"
+  },
+  "early-stage-idea-validation": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-21"
+  },
+  "high-cost-global-marketplace-payouts": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-21"
+  },
+  "ai-crm-governance-audit": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-21"
+  },
+  "large-scale-computation-memory-errors": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-21"
+  },
+  "meaningful-website-change-monitoring": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-21"
+  },
+  "ai-agent-file-deletion-safeguard": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-21"
+  },
+  "opaque-saas-pricing-models": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-21"
+  },
+  "indie-music-royalty-collection": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-21"
+  },
+  "ai-llm-cost-monitoring": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-21"
+  },
+  "user-friendly-latex-resume-builder": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-21"
+  },
+  "proprietary-handwritten-notes-export": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-21"
+  },
+  "ttrpg-session-ai-notetaking": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-21"
+  },
+  "intuitive-video-editor": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-21"
+  },
+  "developer-utility-tools-fragmentation": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-21"
+  },
+  "flexible-audio-language-learning": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-21"
+  },
+  "markdown-first-collaborative-docs": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-21"
+  },
+  "no-signup-magic-link-testing": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-21"
+  },
+  "disposable-email-detection-api": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-21"
+  },
+  "multi-account-email-management": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-21"
+  },
+  "custom-visual-picker-ui-component": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-21"
+  },
+  "custom-macos-tiling-window-setup": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-21"
   }
 }
