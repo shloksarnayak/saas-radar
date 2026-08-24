@@ -6480,5 +6480,131 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-08-23"
+  },
+  "ai-app-security-compliance": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-24"
+  },
+  "ai-agent-human-browser-automation": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-24"
+  },
+  "undetectable-ai-browser-automation": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-24"
+  },
+  "ai-coding-agent-monitoring": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-24"
+  },
+  "ai-agent-dynamic-knowledge-management": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-24"
+  },
+  "ai-model-vendor-lockin": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-24"
+  },
+  "rust-mid-level-ui-3d-integration": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-24"
+  },
+  "incremental-backend-language-migration": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-24"
+  },
+  "developer-security-upskilling-gap": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-24"
+  },
+  "ai-agent-context-management-monitoring": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-24"
+  },
+  "custom-document-ai-tutor": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-24"
+  },
+  "gaze-tracking-focus-tool": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-24"
+  },
+  "webhook-inspector-api-mocking-fakedata": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-24"
+  },
+  "personalized-searchable-knowledge-base": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-24"
+  },
+  "developer-web-utility-tools": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-24"
+  },
+  "ios-screentime-passcode-delay": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-24"
+  },
+  "microcontroller-on-device-ide": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-24"
+  },
+  "morse-code-practice-decoder-logbook": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-24",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-08-24"
   }
 }
