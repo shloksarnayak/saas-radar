@@ -6690,5 +6690,222 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-08-25"
+  },
+  "llm-webapp-monetization-proxy": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-26"
+  },
+  "federal-contracting-automation": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-26"
+  },
+  "secure-dns-change-approval": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-26"
+  },
+  "llm-output-style-correction": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-26"
+  },
+  "federal-contracting-automation-smb": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-26"
+  },
+  "personalized-language-learning-stories": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-26"
+  },
+  "ai-agent-coding-orchestration": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-26"
+  },
+  "pii-redaction-pdf-documents": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-26"
+  },
+  "inline-ai-writing-suggestions": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-26"
+  },
+  "niche-job-board-visibility": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-26"
+  },
+  "advanced-local-meeting-transcription": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-26"
+  },
+  "agentic-engineering-context-management": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-26"
+  },
+  "production-ai-agent-management": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-26"
+  },
+  "specialized-web-search-ai-agents": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-26"
+  },
+  "dns-change-approval-workflow": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-26"
+  },
+  "ai-agent-workflow-enforcement": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-26"
+  },
+  "personal-financial-scenario-planning": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-26"
+  },
+  "personal-finance-scenario-comparison": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-26"
+  },
+  "performant-visual-document-workspace": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-26"
+  },
+  "llm-output-tone-correction": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-26"
+  },
+  "ai-agent-driven-project-hosting": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-26"
+  },
+  "ai-agent-coauthoring-document-format": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-26"
+  },
+  "llm-cost-optimization-pre-call": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-26"
+  },
+  "ai-agent-skill-optimization-grading": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-26"
+  },
+  "usage-based-billing-ai-gateway": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-26"
+  },
+  "ai-content-sourcing-automation": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-26"
+  },
+  "secure-ai-agent-sandbox": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-26"
+  },
+  "manage-ai-code-review-hallucinations": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-26"
+  },
+  "latex-editor-local-git-sync": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-26"
+  },
+  "local-graph-database-management": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-26"
+  },
+  "high-quality-spotify-canvas-creation": {
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-26"
   }
 }
