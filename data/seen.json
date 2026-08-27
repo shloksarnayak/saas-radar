@@ -6907,5 +6907,180 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-08-26"
+  },
+  "frontier-tech-insurance-gap": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-08-27"
+  },
+  "saas-pricing-model-changes": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-27"
+  },
+  "siloed-gtm-customer-data": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-27"
+  },
+  "ai-code-review-bottleneck-context": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-27"
+  },
+  "social-media-warm-lead-generation": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-27"
+  },
+  "ai-app-development-boilerplate": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-27"
+  },
+  "multi-repo-config-management": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-27"
+  },
+  "ai-model-throttling-inefficiency": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-27"
+  },
+  "llm-interpretability-explainability": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-27"
+  },
+  "real-time-meeting-summary": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-27"
+  },
+  "ai-agent-context-task-management": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-27"
+  },
+  "ai-ui-design-system-adherence": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-27"
+  },
+  "llm-distributed-training-visualization": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-27"
+  },
+  "ml-model-monitoring-drift": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-27"
+  },
+  "online-comment-truthiness-verification": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-27"
+  },
+  "enforce-ai-agent-coding-standards": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-27"
+  },
+  "community-content-moderation-fatigue": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-27"
+  },
+  "niche-security-news-curation": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-27"
+  },
+  "web-page-link-archiving-management": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-27"
+  },
+  "casual-social-connection-matching": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-27"
+  },
+  "visualize-ai-agent-bottlenecks": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-27"
+  },
+  "llm-session-memory-management": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-27"
+  },
+  "ai-agent-session-monitoring": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-27"
+  },
+  "ai-agent-todo-management": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-27"
+  },
+  "virtual-workspace-window-layout-management": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-27",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-27"
   }
 }
