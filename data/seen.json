@@ -6875,10 +6875,10 @@
   },
   "secure-ai-agent-sandbox": {
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-26",
-    "mention_count": 1,
-    "best_score": 6.3,
-    "last_reported_on": "2026-08-26"
+    "last_seen": "2026-08-29",
+    "mention_count": 2,
+    "best_score": 8.7,
+    "last_reported_on": "2026-08-29"
   },
   "manage-ai-code-review-hallucinations": {
     "first_seen": "2026-08-26",
@@ -7204,10 +7204,10 @@
   },
   "single-binary-ssh-bruteforce-blocker": {
     "first_seen": "2026-08-28",
-    "last_seen": "2026-08-28",
-    "mention_count": 1,
+    "last_seen": "2026-08-29",
+    "mention_count": 2,
     "best_score": 6.7,
-    "last_reported_on": "2026-08-28"
+    "last_reported_on": "2026-08-29"
   },
   "self-hostable github activity-cards": {
     "first_seen": "2026-08-28",
@@ -7229,5 +7229,138 @@
     "mention_count": 1,
     "best_score": 6.7,
     "last_reported_on": "2026-08-28"
+  },
+  "ai-quota-cost-optimization": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-08-29"
+  },
+  "api-dependency-change-management": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-29"
+  },
+  "ai-provider-throttling-mitigation": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-29"
+  },
+  "language-learning-media-workflow": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-29"
+  },
+  "simplified-customer-support-platform": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-29"
+  },
+  "clean-offline-image-processing": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-29"
+  },
+  "private-self-host-ai-agent": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-29"
+  },
+  "browser-automation-debugging": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-29"
+  },
+  "fast-easy-podcast-creation": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-08-29"
+  },
+  "language-learning-media-extraction": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-29"
+  },
+  "personal-email-archive-future-proof": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-29"
+  },
+  "enforcing-ai-coding-agent-protocols": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-29"
+  },
+  "verified-in-person-professional-networking": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-29"
+  },
+  "improved-shell-script-debugging": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-29"
+  },
+  "privacy-focused-offline-image-processing": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-29"
+  },
+  "net-feature-flag-ui": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-29"
+  },
+  "collaborative-github-markdown-editor": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-29"
+  },
+  "organic-x-visibility": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-29"
+  },
+  "simple-app-event-notifications": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-08-29"
   }
 }
