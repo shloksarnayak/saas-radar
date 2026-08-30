@@ -7239,10 +7239,10 @@
   },
   "api-dependency-change-management": {
     "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
-    "mention_count": 1,
+    "last_seen": "2026-08-30",
+    "mention_count": 2,
     "best_score": 8.0,
-    "last_reported_on": "2026-08-29"
+    "last_reported_on": "2026-08-30"
   },
   "ai-provider-throttling-mitigation": {
     "first_seen": "2026-08-29",
@@ -7362,5 +7362,145 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-08-29"
+  },
+  "business-idea-winnability-validation": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-30"
+  },
+  "ineffective-personal-data-removal": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-30"
+  },
+  "multi-database-query-workflows": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-08-30"
+  },
+  "multi-db-workflow-sql-automation": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-30"
+  },
+  "automate-niche-technical-tasks": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-30"
+  },
+  "manual-meta-ads-optimization": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-30"
+  },
+  "difficult-bash-script-debugging": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-08-30"
+  },
+  "saas-annual-price-increase": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-30"
+  },
+  "local-ai-second-brain": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-30"
+  },
+  "llm-skill-degradation-prevention": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-30"
+  },
+  "lightweight-developer-reporting": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-30"
+  },
+  "privacy-multi-function-image-editing": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-30"
+  },
+  "lightweight-darwin-debugging-environment": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-08-30"
+  },
+  "travel-itinerary-for-digital-nomads": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-30"
+  },
+  "centralized-outdoor-sports-conditions": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-30"
+  },
+  "verified-in-person-professional-network": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-08-30"
+  },
+  "ai-code-generation-addiction-management": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-30"
+  },
+  "messy-ai-chatbot-data-tracking": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-08-30"
+  },
+  "manage-historic-email-archive": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-08-30"
+  },
+  "multi-database-workflow-queries": {
+    "first_seen": "2026-08-30",
+    "last_seen": "2026-08-30",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-08-30"
   }
 }
