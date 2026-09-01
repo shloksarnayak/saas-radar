@@ -7705,5 +7705,222 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-08-31"
+  },
+  "robotics-data-pipeline-qc": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-01"
+  },
+  "software-license-compliance-automation": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-01"
+  },
+  "company-ai-context-management": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-01"
+  },
+  "analytics-agent-context-bootstrapping": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-01"
+  },
+  "secure-llm-tool-access": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-01"
+  },
+  "automate-financial-research": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-01"
+  },
+  "inadequate-realtime-translation-tools": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-01"
+  },
+  "agent-output-clipboard-management": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-01"
+  },
+  "website-bot-protection": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-01"
+  },
+  "one-way-broadcast-alerts": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-01"
+  },
+  "real-time-meeting-translation": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-01"
+  },
+  "tradesperson-quote-invoice-management": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-01"
+  },
+  "contextual-ai-agent-knowledge-integration": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-01"
+  },
+  "consistent-llm-code-quality": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-01"
+  },
+  "efficient-code-animation-creation": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-01"
+  },
+  "compare-llm-pricing-performance": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-01"
+  },
+  "managing-ai-agent-drift-behavior": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-01"
+  },
+  "ai-agent-spending-control": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-01"
+  },
+  "efficient-terminal-code-review": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-01"
+  },
+  "efficient-macos-screenshot-workflow": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-01"
+  },
+  "efficient-local-llm-rag": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-01"
+  },
+  "generate-complex-shell-commands": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-01"
+  },
+  "ai-agent-web-interaction-slowness": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-01"
+  },
+  "non-technical-scheduled-sql-exports": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-01"
+  },
+  "transparent-affordable-ai-model-benchmarks": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-01"
+  },
+  "detect-robot-data-clock-skew": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-01"
+  },
+  "ai-agent-secure-communication-protocol": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-01"
+  },
+  "manage-multiple-ai-agent-clis": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-01"
+  },
+  "automate-software-license-compliance": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-01"
+  },
+  "vendor-security-vulnerability-reporting": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-01"
+  },
+  "run-large-llms-low-memory-local": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-01"
   }
 }
