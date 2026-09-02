@@ -7922,5 +7922,194 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-09-01"
+  },
+  "automate-real-world-phone-tasks": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-02"
+  },
+  "secure-iac-private-network-cicd": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-02"
+  },
+  "product-project-definition-traceability": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-02"
+  },
+  "llm-api-cost-tracking": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-02"
+  },
+  "ai-agent-session-sharing": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-02"
+  },
+  "ai-agent-git-workflow": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-02"
+  },
+  "inadequate-realtime-meeting-translation": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-02"
+  },
+  "aws-s3-cross-region-copy": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-02"
+  },
+  "oss-maintainer-legal-support": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-02"
+  },
+  "ai-agent-production-monitoring": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-02"
+  },
+  "reliable-privacy-email-custom-domain": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-02"
+  },
+  "simple-cron-job-monitoring": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-02"
+  },
+  "avoid-ai-writing-smell": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-02"
+  },
+  "remote-dev-env-mobile": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-02"
+  },
+  "local-llm-coding-quality": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-02"
+  },
+  "secure-iac-private-networks": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-02"
+  },
+  "ai-demo-to-product-gap": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-02"
+  },
+  "complex-ai-agent-setup-context": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-02"
+  },
+  "git-repo-management-for-ai-agents": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-02"
+  },
+  "advanced-large-file-transfer-features": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-02"
+  },
+  "ai-writing-style-quality": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-02"
+  },
+  "python-gui-for-scripts": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-02"
+  },
+  "electron-app-bloat-alternatives": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-02"
+  },
+  "app-addiction-focus-management": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-02"
+  },
+  "filter-ai-generated-youtube-content": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-02"
+  },
+  "ai-agent-rails-guardrails": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-02"
+  },
+  "llm-agent-consistency-domain-tasks": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-02"
   }
 }
