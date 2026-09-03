@@ -7995,10 +7995,10 @@
   },
   "reliable-privacy-email-custom-domain": {
     "first_seen": "2026-09-02",
-    "last_seen": "2026-09-02",
-    "mention_count": 1,
-    "best_score": 7.7,
-    "last_reported_on": "2026-09-02"
+    "last_seen": "2026-09-03",
+    "mention_count": 2,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-03"
   },
   "simple-cron-job-monitoring": {
     "first_seen": "2026-09-02",
@@ -8111,5 +8111,250 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-02"
+  },
+  "interactive-ai-course-generation": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-03"
+  },
+  "universal-pow-bot-blocking-sidecar": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "ai-agent-ops-incident-response": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "indie-dev-user-acquisition": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "ai-code-verification-testing": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "legacy-api-modernization-inexperienced-team": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "iac-private-network-management": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "lightweight-selfhosted-manufacturing-crm-erp": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "ai-assisted-pr-review-context": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-03"
+  },
+  "real-time-ai-agent-code-smell-detection": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-03"
+  },
+  "ai-internal-tool-generation-maintainability": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-03"
+  },
+  "social-competitive-language-learning": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-03"
+  },
+  "personal-data-portability-marketplace": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-03"
+  },
+  "ai-agent-overly-cautious-estimation": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-03"
+  },
+  "lightweight-secure-frontend-auth": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-03"
+  },
+  "efficient-ai-agent-workflow-context": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-03"
+  },
+  "family-household-dashboard-tasks": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-03"
+  },
+  "personalized-audio-briefing-rss": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-03"
+  },
+  "secure-self-hosted-tunnel": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-03"
+  },
+  "multi-language-mutation-testing-ai-code": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "secure-branded-large-file-transfer": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "ui-ux-terminology-reference": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "ai-assisted-pr-review": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "author-solo-professional-site-builder": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "organize-online-media-for-sampling": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-03"
+  },
+  "long-horizon-domain-specific-ai-agents": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-03"
+  },
+  "outdated-ham-radio-software-ux": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-03"
+  },
+  "social-media-media-archiver": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-03"
+  },
+  "lightweight-public-client-auth": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-03"
+  },
+  "infra-product-demo-solution": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-03"
+  },
+  "modern-macos-music-player": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-03"
+  },
+  "skate-spot-video-database": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-03"
+  },
+  "password-manager-migration-corporate": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "organize-skate-content-spots-tricks": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-03"
+  },
+  "vanity-domain-name-generator": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-03",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-03"
   }
 }
