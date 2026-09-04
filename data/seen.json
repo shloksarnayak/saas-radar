@@ -8356,5 +8356,236 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-03"
+  },
+  "llm-api-mocking-service": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-09-04"
+  },
+  "autonomous-agent-security-controls": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-04"
+  },
+  "affordable-plm-for-smbs": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-04"
+  },
+  "llm-api-mocking-testing": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-04"
+  },
+  "autonomous-agent-security-control": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-04"
+  },
+  "llm-token-cost-optimization": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-04"
+  },
+  "llm-tooling-api-standardization": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-04"
+  },
+  "llm-agent-security-control": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-04"
+  },
+  "ui-feedback-agent-integration": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-04"
+  },
+  "automate-google-ads-optimization": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-04"
+  },
+  "unified-programmable-video-production": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-04"
+  },
+  "ai-agent-tool-integration-standard": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-04"
+  },
+  "physical-location-data-ai-agents": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-04"
+  },
+  "fragmented-video-production-workflow": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-04"
+  },
+  "ai-assisted-code-review": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-04"
+  },
+  "personal-data-portability-llm": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-04"
+  },
+  "time-tracking-forgetfulness-invoicing": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-04"
+  },
+  "holistic-personalized-health-coaching": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-04"
+  },
+  "ai-detection-bias-non-native": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-04"
+  },
+  "local-nlu-shell-assistant": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-04"
+  },
+  "ai-agent-physical-location-data": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-04"
+  },
+  "automate-video-editing-for-content": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-04"
+  },
+  "debug-ai-agent-generated-code": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-04"
+  },
+  "automate-customer-support-tickets": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-04"
+  },
+  "password-manager-migration-tool": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-04"
+  },
+  "custom-ai-agent-harness-complexity": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-04"
+  },
+  "video-talks-summary-search": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-04"
+  },
+  "simplify-websocket-stream-capture": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-04"
+  },
+  "multi-language-mutation-testing": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-04"
+  },
+  "offline-jar-inspection-editor": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-04"
+  },
+  "personal-ai-agent-orchestration": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-04"
+  },
+  "private-local-macos-dictation": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-04"
+  },
+  "complex-self-hosted-email-management": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-04"
   }
 }
