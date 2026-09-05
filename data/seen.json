@@ -8380,17 +8380,17 @@
   },
   "llm-api-mocking-testing": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
-    "mention_count": 1,
+    "last_seen": "2026-09-05",
+    "mention_count": 2,
     "best_score": 8.3,
-    "last_reported_on": "2026-09-04"
+    "last_reported_on": "2026-09-05"
   },
   "autonomous-agent-security-control": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
-    "mention_count": 1,
+    "last_seen": "2026-09-05",
+    "mention_count": 2,
     "best_score": 8.3,
-    "last_reported_on": "2026-09-04"
+    "last_reported_on": "2026-09-05"
   },
   "llm-token-cost-optimization": {
     "first_seen": "2026-09-04",
@@ -8436,10 +8436,10 @@
   },
   "ai-agent-tool-integration-standard": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
-    "mention_count": 1,
+    "last_seen": "2026-09-05",
+    "mention_count": 2,
     "best_score": 7.3,
-    "last_reported_on": "2026-09-04"
+    "last_reported_on": "2026-09-05"
   },
   "physical-location-data-ai-agents": {
     "first_seen": "2026-09-04",
@@ -8587,5 +8587,187 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-04"
+  },
+  "fragmented-school-communication": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-05"
+  },
+  "curated-youtube-kids-viewer": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-05"
+  },
+  "fragmented-content-strategy-context": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-05"
+  },
+  "product-idea-feedback-to-action": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-05"
+  },
+  "ai-agent-work-artifact-management": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-05"
+  },
+  "multi-home-security-camera-view": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-05"
+  },
+  "ai-agent-controlled-spending": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-05"
+  },
+  "newsletter-to-engaging-podcast": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-05"
+  },
+  "ai-code-review-context-loss": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-05"
+  },
+  "text-to-engaging-podcast": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-05"
+  },
+  "private-affordable-ai-assistant": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-05"
+  },
+  "product-idea-management": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-05"
+  },
+  "ai-agent-git-scheduler": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-05"
+  },
+  "remote-coding-session-management": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-05"
+  },
+  "ai-agent-ephemeral-note-taking": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-05"
+  },
+  "firecracker-vm-management": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-05"
+  },
+  "reliable-paywall-bypass-tool": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-05"
+  },
+  "wayback-machine-rate-limits": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-05"
+  },
+  "ai-agent-tool-integration": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-05"
+  },
+  "founder-skill-outsourcing-dilemma": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-05"
+  },
+  "complex-dependent-task-timer": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-05"
+  },
+  "smart-home-camera-video-wall": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-05"
+  },
+  "online-community-ai-slop": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-05"
+  },
+  "large-remote-csv-viewer": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-05"
+  },
+  "ai-content-rejection": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-05"
+  },
+  "personal-ai-agent-management": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-05",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-05"
   }
 }
