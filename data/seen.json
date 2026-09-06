@@ -1247,10 +1247,10 @@
   },
   "multi-ai-agent-management": {
     "first_seen": "2026-07-19",
-    "last_seen": "2026-07-19",
-    "mention_count": 1,
+    "last_seen": "2026-09-06",
+    "mention_count": 2,
     "best_score": 8.3,
-    "last_reported_on": "2026-07-19"
+    "last_reported_on": "2026-09-06"
   },
   "ai-long-term-memory": {
     "first_seen": "2026-07-19",
@@ -8769,5 +8769,215 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-05"
+  },
+  "ai-agent-long-term-context": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-09-06"
+  },
+  "automated-diet-meal-selection": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-06"
+  },
+  "dispersed-school-communication": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-06"
+  },
+  "ai-generated-fraud-detection": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-06"
+  },
+  "ai-agent-session-audit": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-06"
+  },
+  "ai-application-evaluation-strategy": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-06"
+  },
+  "clean-xbrl-financial-data-extraction": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-06"
+  },
+  "handwritten-chess-pgn-correction": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-06"
+  },
+  "domain-specific-vpn-routing": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-06"
+  },
+  "overly-aligned-ai-behavior": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-06"
+  },
+  "extended-software-supply-chain-security": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-06"
+  },
+  "ai-agent-geographic-data-visualization": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-06"
+  },
+  "expensive-basic-feature-feedback-tool": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-06"
+  },
+  "multi-home-camera-tv-display": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-06"
+  },
+  "manual-spreadsheet-processes": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-06"
+  },
+  "useful-internal-documentation": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-06"
+  },
+  "lenient-pgn-notation-correction": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-06"
+  },
+  "transcription-based-video-cutter": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-06"
+  },
+  "local-private-ai-assistant": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-06"
+  },
+  "ai-generated-micro-lessons": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-06"
+  },
+  "advanced-photo-import-tool": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-06"
+  },
+  "ai-video-cut-editor": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-06"
+  },
+  "wayback-machine-rate-limiting": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-06"
+  },
+  "ambient-developer-presence-tool": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-06"
+  },
+  "organic-marketing-for-indie-devs": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-06"
+  },
+  "modern-tech-interview-prep": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-06"
+  },
+  "agnostic-agent-job-scheduler": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-06"
+  },
+  "large-csv-viewer": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-06"
+  },
+  "complex-real-world-timers": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-06"
+  },
+  "paywall-bypass-alternatives": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-06",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-06"
   }
 }
