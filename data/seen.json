@@ -344,10 +344,10 @@
   },
   "ai-agent-long-term-memory": {
     "first_seen": "2026-07-13",
-    "last_seen": "2026-07-13",
-    "mention_count": 1,
-    "best_score": 7.7,
-    "last_reported_on": "2026-07-13"
+    "last_seen": "2026-09-07",
+    "mention_count": 2,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-07"
   },
   "ci-cd-secrets-integration": {
     "first_seen": "2026-07-13",
@@ -8979,5 +8979,159 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-06"
+  },
+  "production-ai-app-evaluation": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-09-07"
+  },
+  "clean-xbrl-financial-data": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-07"
+  },
+  "realistic-data-analyst-training": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-07"
+  },
+  "enterprise-ai-use-cases": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-07"
+  },
+  "in-process-llm-gateway": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-07"
+  },
+  "backpacking-permit-cancellation-alerts": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-07"
+  },
+  "kubernetes-app-infra-debugging": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-07"
+  },
+  "affordable-multi-social-posting": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-07"
+  },
+  "fragmented-personal-life-management": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-07"
+  },
+  "self-host-simple-app-complexity": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-07"
+  },
+  "selective-domain-vpn-routing": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-07"
+  },
+  "per-domain-vpn-routing": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-07"
+  },
+  "flexible-pgn-error-correction": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-07"
+  },
+  "high-quality-youtube-downloads": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-07"
+  },
+  "filter-ai-generated-content": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-07"
+  },
+  "ai-workflow-video-trimming": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-07"
+  },
+  "unwanted-person-removal-photos": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-07"
+  },
+  "curated-social-media-feed": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-07"
+  },
+  "ai-product-transparency": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-07"
+  },
+  "docker-container-network-monitoring": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-07"
+  },
+  "intuitive-file-management": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-07"
+  },
+  "intuitive-music-theory-education": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-07"
   }
 }
