@@ -9133,5 +9133,180 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-07"
+  },
+  "anti-fpv-drone-detection": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-09"
+  },
+  "ai-agent-code-linting": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-09"
+  },
+  "llm-agent-hardware-design-friction": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-09"
+  },
+  "llm-coding-agent-visibility": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-09"
+  },
+  "autonomous-developer-agents": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-09"
+  },
+  "contextual-ai-feedback": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-09"
+  },
+  "project-cost-estimation": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-09"
+  },
+  "llm-coding-agent-environment": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-09"
+  },
+  "real-instrument-play-along": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-09"
+  },
+  "in-document-ai-writing-revision": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-09"
+  },
+  "ai-writing-in-document": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-09"
+  },
+  "ai-conversational-turn-taking": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-09"
+  },
+  "ai-app-privacy-isolation-management": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-09"
+  },
+  "controlled-ai-pair-programming": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-09"
+  },
+  "ebook-library-sync-across-apps": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-09"
+  },
+  "english-accent-improvement": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-09"
+  },
+  "ai-genomic-mutation-prioritization": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-09"
+  },
+  "browser-csv-editor-local-large": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-09"
+  },
+  "multi-repo-dev-workflow": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-09"
+  },
+  "coding-agent-voice-control": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-09"
+  },
+  "article-to-carousel-conversion": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-09"
+  },
+  "track-multiple-ai-agents-tmux": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-09"
+  },
+  "digitize-physical-photos": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-09"
+  },
+  "frictionless-thought-capture": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-09"
+  },
+  "send-web-to-ereader": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-09",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-09"
   }
 }
