@@ -9462,5 +9462,222 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-10"
+  },
+  "inter-agent-communication-platform": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-11"
+  },
+  "llm-private-data-integration": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-11"
+  },
+  "structured-idea-validation": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-11"
+  },
+  "optimize-ai-agent-inference-costs": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-11"
+  },
+  "ai-skill-integrity-verification": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-11"
+  },
+  "lean-llm-tool-calling": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-11"
+  },
+  "ai-skill-identity-integrity-lack": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-11"
+  },
+  "production-safe-ai-agent-infra": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-11"
+  },
+  "automated-feature-documentation": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-11"
+  },
+  "linkedin-lead-acquisition-manual": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-11"
+  },
+  "production-safe-ai-agent-deployment": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 7.8,
+    "last_reported_on": "2026-09-11"
+  },
+  "automated-high-level-documentation": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-11"
+  },
+  "desktop-integrated-ai-assistant": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-11"
+  },
+  "cloud-vm-automation-tool-bundling": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-11"
+  },
+  "fragmented-productivity-context": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-11"
+  },
+  "ai-agent-intercommunication-lack": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-11"
+  },
+  "ai-agent-resource-interface-lack": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-11"
+  },
+  "llm-native-code-integration-friction": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-11"
+  },
+  "llm-tool-calling-no-code": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-11"
+  },
+  "persistent-desktop-ai-assistant": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-11"
+  },
+  "llm-orchestration-shared-memory": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-11"
+  },
+  "native-llm-integration-typescript": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-11"
+  },
+  "collaborative-ai-pair-programming": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-11"
+  },
+  "api-generation-tech-stack-dissatisfaction": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-11"
+  },
+  "ecommerce-product-discovery-clutter": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-11"
+  },
+  "local-ai-agent-resource-strain": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-11"
+  },
+  "calendar-app-ux-friction": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-11"
+  },
+  "ai-generated-craft-pattern-usability": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-11"
+  },
+  "startup-discovery-social-media": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-11"
+  },
+  "linear-forum-thread-missing": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-11"
+  },
+  "x-startup-discoverability-lack": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-11"
   }
 }
