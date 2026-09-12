@@ -9612,10 +9612,10 @@
   },
   "native-llm-integration-typescript": {
     "first_seen": "2026-09-11",
-    "last_seen": "2026-09-11",
-    "mention_count": 1,
-    "best_score": 7.0,
-    "last_reported_on": "2026-09-11"
+    "last_seen": "2026-09-12",
+    "mention_count": 2,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-12"
   },
   "collaborative-ai-pair-programming": {
     "first_seen": "2026-09-11",
@@ -9679,5 +9679,173 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-11"
+  },
+  "small-site-traffic-spikes": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-12"
+  },
+  "ai-over-automation-user-confusion": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-12"
+  },
+  "employee-benefits-optimization-tracking": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-12"
+  },
+  "google-forms-esignature-branding": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-12"
+  },
+  "creator-hiring-avoidance-tools": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-12"
+  },
+  "ai-model-development-transparency": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-12"
+  },
+  "synthetic-data-generation-computer-vision": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-12"
+  },
+  "podcast-insight-retention": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-12"
+  },
+  "ai-agent-orchestration-cost-management": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-12"
+  },
+  "open-source-uptime-monitoring-advanced": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-12"
+  },
+  "collaborative-ipam-versioning-no-spreadsheets": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-12"
+  },
+  "ai-proof-management-platform": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-12"
+  },
+  "specialized-llm-tool-calling": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-12"
+  },
+  "structured-multi-llm-terminal-interface": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-12"
+  },
+  "forum-algorithm-free-discussion": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-12"
+  },
+  "discover-saas-alternatives-cost": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-12"
+  },
+  "inaccessible-traditional-photography": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-12"
+  },
+  "ai-coding-agent-config-management": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-12"
+  },
+  "simple-personal-profile-builder": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-12"
+  },
+  "remote-machine-debugging-boot-image": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-12"
+  },
+  "custom-design-app-ui-dev": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-12"
+  },
+  "hardware-security-key-management-sync": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-12"
+  },
+  "crm-activity-logging-automation": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-12"
+  },
+  "static-site-self-host-simple-deploy": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-12"
   }
 }
