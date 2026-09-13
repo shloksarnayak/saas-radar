@@ -9682,10 +9682,10 @@
   },
   "small-site-traffic-spikes": {
     "first_seen": "2026-09-12",
-    "last_seen": "2026-09-12",
-    "mention_count": 1,
-    "best_score": 8.0,
-    "last_reported_on": "2026-09-12"
+    "last_seen": "2026-09-13",
+    "mention_count": 2,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-13"
   },
   "ai-over-automation-user-confusion": {
     "first_seen": "2026-09-12",
@@ -9847,5 +9847,131 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-12"
+  },
+  "codebase-knowledge-graph-ai": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-13"
+  },
+  "lost-ticket-context-across-tools": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-13"
+  },
+  "ai-context-aware-project-management": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-13"
+  },
+  "ai-video-consistency-performance": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-13"
+  },
+  "solo-creator-hiring-skill-gap": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-13"
+  },
+  "reliable-financial-analyst-ratings": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-13"
+  },
+  "verify-clothing-composition-durability": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-13"
+  },
+  "llm-code-splitting-optimization": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-13"
+  },
+  "product-owner-technical-gap": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-13"
+  },
+  "independent-online-community-need": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-13"
+  },
+  "ai-notes-over-automation-confusion": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-13"
+  },
+  "modern-rad-ide-simple-apps": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-13"
+  },
+  "innovative-ai-chat-interface": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-13"
+  },
+  "ai-note-organization-findability": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-13"
+  },
+  "accessible-darkroom-photo-editing": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-13"
+  },
+  "website-back-button-breakage": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-13"
+  },
+  "foss-funding-transparency": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-13"
+  },
+  "personal-profile-portfolio-builder": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-13"
   }
 }
