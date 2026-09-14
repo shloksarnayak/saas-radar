@@ -9973,5 +9973,173 @@
     "mention_count": 1,
     "best_score": 6.7,
     "last_reported_on": "2026-09-13"
+  },
+  "ai-content-governance-compliance": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-14"
+  },
+  "ai-agent-human-intervention": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-14"
+  },
+  "multi-step-coding-interview-prep": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-14"
+  },
+  "ai-agent-qa-testing-monitoring": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-14"
+  },
+  "llm-hallucination-provenance-verification": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-14"
+  },
+  "agentic-visual-effects-workflow": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-14"
+  },
+  "ai-agent-human-in-loop-control": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-14"
+  },
+  "ai-agent-credential-management": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-14"
+  },
+  "offline-first-pos-for-small-business": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-14"
+  },
+  "centralized-user-role-management": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-14"
+  },
+  "ai-prompt-cache-cost-diagnosis": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-14"
+  },
+  "ttrpg-digital-resource-organization": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-14"
+  },
+  "ttrpg-digital-asset-organization": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-14"
+  },
+  "financial-analyst-performance-tracking": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-14"
+  },
+  "ai-viral-video-creation": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-14"
+  },
+  "apple-google-wallet-api": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-14"
+  },
+  "frontend-performance-optimization": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-14"
+  },
+  "ai-generated-flashcard-content": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-14"
+  },
+  "travel-itinerary-auto-organizer": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-14"
+  },
+  "ipv4-to-ipv6-database-proxy": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-14"
+  },
+  "interactive-product-demo-creation": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-14"
+  },
+  "ai-reduce-coding-boilerplate": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-14"
+  },
+  "automated-travel-itinerary-organization": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-14"
+  },
+  "simple-first-party-web-analytics": {
+    "first_seen": "2026-09-14",
+    "last_seen": "2026-09-14",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-14"
   }
 }
