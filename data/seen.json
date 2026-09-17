@@ -10330,5 +10330,264 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-15"
+  },
+  "affordable-grant-funding-search": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "reliable-ai-agent-workflows": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-17"
+  },
+  "ai-agent-payment-gateway": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-17"
+  },
+  "ai-agent-swarm-security": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-17"
+  },
+  "llm-inference-gateway-governance": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-17"
+  },
+  "enterprise-ai-governance-control-plane": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-17"
+  },
+  "whatsapp-api-for-agents": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-17"
+  },
+  "expensive-grant-funding-search": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "video-ai-agents-facetime": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "ai-agent-skill-analytics": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "ai-agent-project-management": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "ai-model-context-management": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "sensor-data-infrastructure-maintenance": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "open-ai-agents-office": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "holistic-travel-planning-info": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "digital-textbook-study-notes": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-17"
+  },
+  "efficient-flashcard-creation": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-17"
+  },
+  "ad-free-privacy-weather-app": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-17"
+  },
+  "digital-textbook-note-taking": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-17"
+  },
+  "personalized-ai-writing-assistant": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-17"
+  },
+  "hiring-onprem-ha-ops": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-17"
+  },
+  "contextual-travel-weather-planning": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-17"
+  },
+  "collaborative-ai-app-creation": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-17"
+  },
+  "ai-model-cost-comparison": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-17"
+  },
+  "aws-short-lived-credentials-manager": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-17"
+  },
+  "task-dependency-visualization-unblocked": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-17"
+  },
+  "user-friendly-macos-tiling-wm": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-17"
+  },
+  "ci-cache-bloat-slowdown": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "gpu-resource-scheduling-monitoring": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "non-distracting-browser-timer": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "lightweight-intrusion-prevention": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-17"
+  },
+  "lightweight-kafka-message-search": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-17"
+  },
+  "tesla-digital-wrap-editor": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-17"
+  },
+  "news-feed-topic-filtering": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-17"
+  },
+  "remote-cli-screenshot-paste": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-17"
+  },
+  "distributing-personal-ai-software": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-17"
+  },
+  "private-local-ai-chat-client": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-17"
   }
 }
