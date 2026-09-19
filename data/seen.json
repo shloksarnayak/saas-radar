@@ -10589,5 +10589,180 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-17"
+  },
+  "gaap-revenue-recognition-saas": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-19"
+  },
+  "granular-technical-text-annotation": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-19"
+  },
+  "ai-code-review-feedback": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-19"
+  },
+  "plain-language-professional-person-search": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-19"
+  },
+  "automated-simulator-screenshot-framing": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-19"
+  },
+  "reliable-disposable-email-detection": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-19"
+  },
+  "unified-mobile-remote-access": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-19"
+  },
+  "review-ai-generated-code": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-19"
+  },
+  "consolidated-ad-free-knowledge-access": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-19"
+  },
+  "opaque-api-internet-search": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-19"
+  },
+  "simplified-local-ai-model-harness": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-19"
+  },
+  "find-people-by-natural-language-description": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-19"
+  },
+  "llm-model-inspection-annotation": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-19"
+  },
+  "context-management-ai-agent-orchestration": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-19"
+  },
+  "cross-platform-passkey-management": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-19"
+  },
+  "cost-free-static-link-shortener": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-19"
+  },
+  "granular-ai-agent-security": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-19"
+  },
+  "visual-interactive-project-management": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-19"
+  },
+  "coordinate-multiple-ai-agents": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-19"
+  },
+  "efficient-local-desktop-search": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-19"
+  },
+  "visual-style-selection-for-image-generation": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-19"
+  },
+  "simplify-technical-jargon-for-normies": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-19"
+  },
+  "clean-simulator-screenshots-with-frames": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-19"
+  },
+  "automated-homelab-network-mapping": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-19"
+  },
+  "automated-physical-mail-sending": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-19",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-19"
   }
 }
