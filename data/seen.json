@@ -11019,10 +11019,10 @@
   },
   "ai-agent-workflow-orchestration": {
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-24",
-    "mention_count": 1,
+    "last_seen": "2026-09-25",
+    "mention_count": 2,
     "best_score": 8.0,
-    "last_reported_on": "2026-09-24"
+    "last_reported_on": "2026-09-25"
   },
   "marketing-video-creation-overhead": {
     "first_seen": "2026-09-24",
@@ -11142,5 +11142,243 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-24"
+  },
+  "code-review-for-ai-generated-code": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 9.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "collaborative-ai-software-architecture": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 9.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "reviewing-understanding-ai-generated-code": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 9.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "ai-agent-context-management-efficiency": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 9.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "ai-agent-automated-phone-calls": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 9.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "understanding-reviewing-ai-generated-code-changes": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-25"
+  },
+  "visualizing-complex-code-flows": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "ai-browser-agent-performance-benchmarking": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "etf-comparative-analytics-insights": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "ai-code-lifecycle-management": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "behavioral-verification-ai-code": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "code-architecture-visualization-ai-integration": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "interactive-ui-for-code-experiments": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-25"
+  },
+  "gmail-inbox-organization-notes": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-25"
+  },
+  "ai-agent-identity-governance": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-25"
+  },
+  "inefficient-ai-browser-automation": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-25"
+  },
+  "reliable-rental-market-data-for-tenants": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-25"
+  },
+  "interactive-tooling-ai-agent-development": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-25"
+  },
+  "personal-finance-habit-building": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-25"
+  },
+  "deep-etf-analytical-insights": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-25"
+  },
+  "true-knowledge-retention-ai-learning": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-25"
+  },
+  "gmail-in-label-organization-and-context": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-25"
+  },
+  "managing-software-complexity-ai-era": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-25"
+  },
+  "social-media-audience-building-early-stage": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "personal-data-offline-first-storage": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "design-data-for-ai-agents": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "detailed-customizable-financial-planning": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "simple-3d-pipe-connector-design": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-25"
+  },
+  "single-use-action-authorization": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-25"
+  },
+  "ai-structured-study-notes": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-25"
+  },
+  "desktop-icon-organization": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "cross-platform-installer-builder": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "managing-founder-product-social-media": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-25"
+  },
+  "html-input-sanitization-limits": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-25"
   }
 }
