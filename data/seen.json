@@ -11208,10 +11208,10 @@
   },
   "ai-code-lifecycle-management": {
     "first_seen": "2026-09-25",
-    "last_seen": "2026-09-25",
-    "mention_count": 1,
+    "last_seen": "2026-09-26",
+    "mention_count": 2,
     "best_score": 8.3,
-    "last_reported_on": "2026-09-25"
+    "last_reported_on": "2026-09-26"
   },
   "behavioral-verification-ai-code": {
     "first_seen": "2026-09-25",
@@ -11380,5 +11380,117 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-25"
+  },
+  "lack-of-ai-agent-decision-transparency": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-09-26"
+  },
+  "understanding-ai-generated-code-systems": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 2,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-26"
+  },
+  "integrating-with-products-lacking-apis": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-26"
+  },
+  "managing-open-source-ai-agents": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-26"
+  },
+  "managing-ai-agent-outputs-context": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 2,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-26"
+  },
+  "multi-llm-provider-management": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-26"
+  },
+  "transparent-auditable-finance-workflows": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-26"
+  },
+  "slow-ai-agent-harness-performance": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-26"
+  },
+  "home-network-documentation-discovery": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-26"
+  },
+  "remote-terminal-ai-agent-access": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-26"
+  },
+  "collaborative-coding-practice-tools": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-26"
+  },
+  "historical-faa-chart-viewer": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-26"
+  },
+  "ux-design-collaboration-tool": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-26"
+  },
+  "3d-to-2d-sprite-animation": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-26"
+  },
+  "ev-ownership-cost-management": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-09-26"
+  },
+  "accessible-modelica-system-modeling": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-26"
   }
 }
