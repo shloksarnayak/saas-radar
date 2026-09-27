@@ -11492,5 +11492,159 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-09-26"
+  },
+  "app-addiction-physical-friction": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-27"
+  },
+  "work-life-balance-accountability": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-27"
+  },
+  "ai-blender-modeling-copilot": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-27"
+  },
+  "api-generation-for-legacy-backends": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-09-27"
+  },
+  "ai-resume-over-embellishment": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-27"
+  },
+  "efficient-local-model-classification": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-27"
+  },
+  "post-mortem-information-delivery": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-27"
+  },
+  "gpu-resource-management-ai-training": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-27"
+  },
+  "read-along-comprehension-assist": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-09-27"
+  },
+  "unified-agent-workspace-collaboration": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-27"
+  },
+  "collaborative-latex-git-integration": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-27"
+  },
+  "wet-bulb-temperature-health-alerts": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-27"
+  },
+  "ai-agent-interoperability-chat": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-27"
+  },
+  "affordable-typed-ontology-framework": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-27"
+  },
+  "lightweight-duckdb-data-pipelines": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-09-27"
+  },
+  "content-categorization-historical-trends": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-27"
+  },
+  "performant-ai-agent-harness": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-09-27"
+  },
+  "semantic-graph-content-navigation": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-27"
+  },
+  "ai-agent-mcp-management": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-27"
+  },
+  "browser-batch-short-video-editor": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-27"
+  },
+  "csharp-binary-serialization-cstruct": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-09-27"
+  },
+  "makeup-application-suboptimal-conditions": {
+    "first_seen": "2026-09-27",
+    "last_seen": "2026-09-27",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-09-27"
   }
 }
