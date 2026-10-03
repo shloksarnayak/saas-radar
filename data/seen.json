@@ -11849,5 +11849,173 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-10-02"
+  },
+  "saas-tool-discoverability-marketing": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-03"
+  },
+  "kids-misinformation-critical-thinking": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-03"
+  },
+  "software-quality-with-ai-code": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-03"
+  },
+  "ai-agent-sandboxing-observability": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-03"
+  },
+  "developer-repo-security-vulnerability": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-03"
+  },
+  "llm-code-reliability-validation": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-03"
+  },
+  "affordable-web-crawling-indexing": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-03"
+  },
+  "predictable-time-tracking-pricing": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-03"
+  },
+  "ai-agent-workflow-visibility": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-03"
+  },
+  "manage-dev-tooling-consistently": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-03"
+  },
+  "teacher-lesson-planning-tools": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-03"
+  },
+  "cross-platform-dev-tool-management": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-03"
+  },
+  "teach-kids-critical-thinking": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-03"
+  },
+  "teacher-lesson-planning": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-03"
+  },
+  "ai-agent-api-key-leakage": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-03"
+  },
+  "stock-screener-fundamental-data": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-03"
+  },
+  "clean-ai-generated-code": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-03"
+  },
+  "fundamental-stock-analysis-tool": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-03"
+  },
+  "detect-fake-lossless-audio": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-03"
+  },
+  "ai-chat-export-archive": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-03"
+  },
+  "consistent-go-linting-ci": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-03"
+  },
+  "in-game-information-access": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-03"
+  },
+  "gamified-fitness-motivation": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-03"
+  },
+  "secure-remote-sudo-approval": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-03",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-03"
   }
 }
