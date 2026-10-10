@@ -12458,5 +12458,194 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-10-08"
+  },
+  "ai-generated-software-review-spec": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-10-10"
+  },
+  "overwhelming-pull-request-reviews": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-10"
+  },
+  "agent-friendly-documentation-lack": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-10"
+  },
+  "production-ready-ai-code-underwriting": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-10"
+  },
+  "understanding-ai-generated-code-context": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-10"
+  },
+  "opaque-infrastructure-pricing-comparison": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-10"
+  },
+  "outdated-genome-viewer-lack-ai-integration": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-10"
+  },
+  "llm-agent-context-overload-verbose-logs": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-10"
+  },
+  "understand-ai-code-context-changes": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-10"
+  },
+  "in-context-llm-text-generation": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-10"
+  },
+  "llm-web-tool-evaluation-monitoring": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-10"
+  },
+  "ai-agent-ui-component-registry": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-10"
+  },
+  "normalized-multi-venue-trading-api": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-10"
+  },
+  "ad-free-pdf-editor": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-10"
+  },
+  "webmcp-tool-evaluation-monitoring": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-10"
+  },
+  "comprehensive-api-gateway-auth-dev": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-10"
+  },
+  "classify-unstructured-user-feedback": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-10"
+  },
+  "real-time-collaborative-markdown": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-10"
+  },
+  "ui-component-quality-standards": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-10"
+  },
+  "comprehensive-terminal-system-monitor": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-10"
+  },
+  "automated-aws-finops-auditing": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-10"
+  },
+  "personal-ios-app-deployment": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-10"
+  },
+  "structured-hardware-test-automation": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-10"
+  },
+  "critical-ai-agent-updates-mobile": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-10"
+  },
+  "performant-web-spreadsheet-engine": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-10"
+  },
+  "secure-binary-package-management": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-10"
+  },
+  "consistent-cross-os-keyboard-shortcuts": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-10-10"
   }
 }
