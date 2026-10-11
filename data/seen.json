@@ -12647,5 +12647,208 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-10-10"
+  },
+  "secure-call-string-transfer": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-11"
+  },
+  "ai-agent-reliability-evaluation-cost": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-11"
+  },
+  "infrastructure-cost-comparison": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-11"
+  },
+  "debugging-llm-tool-failures": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-11"
+  },
+  "native-language-handwriting-app": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-11"
+  },
+  "llm-code-explainability-control": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-11"
+  },
+  "ai-agent-friendly-documentation": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-11"
+  },
+  "bloated-ad-heavy-pdf-editors": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-11"
+  },
+  "high-quality-ui-component-guidelines": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-11"
+  },
+  "managing-personal-data-privacy": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-11"
+  },
+  "credible-ai-agent-benchmarking": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-11"
+  },
+  "gpu-spec-price-comparison": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-11"
+  },
+  "ad-free-native-pdf-editor": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-11"
+  },
+  "safari-animated-webp-performance": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-11"
+  },
+  "information-retention-study-tools": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-11"
+  },
+  "account-lockout-recovery-difficulty": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-11"
+  },
+  "local-first-pdf-note-taking": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-11"
+  },
+  "sql-backed-durable-workflow-engine": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-11"
+  },
+  "ai-ui-component-quality-standards": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-11"
+  },
+  "mobile-app-redirect-forced-viewing": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-11"
+  },
+  "llm-tool-evaluation-monitoring": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-11"
+  },
+  "ensuring-ai-code-correctness": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-11"
+  },
+  "manage-public-records-email": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-11"
+  },
+  "managing-large-ai-prs": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-11"
+  },
+  "app-store-screenshot-creation": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-11"
+  },
+  "ai-pr-review-management": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-11"
+  },
+  "integrated-terminal-system-monitor": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-11"
+  },
+  "code-documentation-gaps": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-11"
+  },
+  "article-paywall-bypass": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-10-11"
   }
 }
