@@ -12850,5 +12850,187 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-10-11"
+  },
+  "interactive-technical-pdf-study": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-10-12"
+  },
+  "ai-agent-benchmark-credibility": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-12"
+  },
+  "architecting-testing-ai-systems": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-12"
+  },
+  "retaining-tacit-expert-knowledge": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-12"
+  },
+  "ai-agent-device-security-control": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-12"
+  },
+  "ai-codebase-search-optimization": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-12"
+  },
+  "filtering-ai-generated-content": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-12"
+  },
+  "ai-agent-sandbox-security": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-12"
+  },
+  "paywall-bypass-reliable-access": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-12"
+  },
+  "reliable-ai-content-detection": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 3,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-12"
+  },
+  "fast-lightweight-3d-video-coding": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-12"
+  },
+  "academic-pdf-interactive-reading": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-12"
+  },
+  "browser-based-semantic-image-search": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-12"
+  },
+  "llm-hallucination-reputation-risk": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-12"
+  },
+  "ai-content-detection-filtering": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-12"
+  },
+  "ai-agent-orchestration-management": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-12"
+  },
+  "self-hosted-interactive-quiz-app": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-12"
+  },
+  "macos-memory-disk-cleanup": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-12"
+  },
+  "personal-ai-agent-task-automation": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-12"
+  },
+  "local-offline-pdf-note-taking": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-12"
+  },
+  "reliable-article-paywall-bypass": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-12"
+  },
+  "fanfiction-reading-writing-experience": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-12"
+  },
+  "blog-promotion-without-social-media": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-12"
+  },
+  "independent-fashion-deal-comparison": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-12"
+  },
+  "cv-generation-from-yaml": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-10-12"
+  },
+  "vocaloid-music-discovery-originals": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-10-12"
   }
 }
