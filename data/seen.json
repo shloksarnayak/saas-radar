@@ -13032,5 +13032,180 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-10-12"
+  },
+  "ai-search-brand-visibility": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 10.0,
+    "last_reported_on": "2026-10-13"
+  },
+  "centralized-ai-agent-control": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-10-13"
+  },
+  "ai-agent-research-accuracy": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-10-13"
+  },
+  "ai-agent-auth-management": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-13"
+  },
+  "ai-agent-knowledge-transfer": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-13"
+  },
+  "ai-model-brand-visibility": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-13"
+  },
+  "automated-story-structure-mapping": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-13"
+  },
+  "ai-agent-workflow-integration": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-13"
+  },
+  "voice-to-structured-output": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-13"
+  },
+  "ai-agent-memory-api": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-13"
+  },
+  "proactive-meal-planning-gaps": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-13"
+  },
+  "detect-ai-code-in-projects": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-13"
+  },
+  "ai-assisted-family-organizer": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-13"
+  },
+  "open-data-stream-fragmentation": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-13"
+  },
+  "iphone-photo-import-hassle": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-13"
+  },
+  "meal-planning-ahead": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-13"
+  },
+  "localized-native-plant-guide": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-13"
+  },
+  "sync-ai-agent-preferences": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-13"
+  },
+  "simplify-account-security-management": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-13"
+  },
+  "lightweight-self-hosted-analytics": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 2,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-13"
+  },
+  "reliable-open-data-streams": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-13"
+  },
+  "ai-coding-agent-guardrail-bypasses": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-13"
+  },
+  "integrate-ai-agents-desktop-workflow": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-13"
+  },
+  "efficient-ai-code-reproduction": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-10-13"
+  },
+  "lightweight-jellyfin-tv-channels": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-10-13"
   }
 }
