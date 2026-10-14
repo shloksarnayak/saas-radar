@@ -9080,10 +9080,10 @@
   },
   "filter-ai-generated-content": {
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-07",
-    "mention_count": 1,
-    "best_score": 7.0,
-    "last_reported_on": "2026-09-07"
+    "last_seen": "2026-10-14",
+    "mention_count": 2,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-14"
   },
   "ai-workflow-video-trimming": {
     "first_seen": "2026-09-07",
@@ -13207,5 +13207,264 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-10-13"
+  },
+  "ai-model-brand-visibility-tracking": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 10.0,
+    "last_reported_on": "2026-10-14"
+  },
+  "compliant-ai-for-defense-aero": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-10-14"
+  },
+  "compliant-ai-inference-layer": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-10-14"
+  },
+  "track-influencer-opinion-evolution": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-14"
+  },
+  "privacy-focused-local-budgeting-app": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "robust-local-ai-agent-guardrails": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "multi-agent-ai-skill-management": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "fast-native-video-graphics": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "unified-cross-app-note-retrieval": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "private-on-device-budgeting-app": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "affordable-ai-agent-sandboxes": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-14"
+  },
+  "ai-agent-dated-market-data": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-14"
+  },
+  "ai-micro-task-automation-token-utilization": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-14"
+  },
+  "track-influencer-evolving-statements": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-14"
+  },
+  "spotify-api-rate-limit-workaround": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-14"
+  },
+  "discover-independent-boutique-fashion": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-14"
+  },
+  "ai-agent-error-reporting": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-14"
+  },
+  "multi-ai-agent-management-ui": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-14"
+  },
+  "real-time-free-text-answer-validation": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "reliable-realtime-open-data-sdk": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "proactive-weekly-meal-planner": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "ai-assisted-woodworking-3d-design": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "pdf-to-epub-for-e-readers": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "dev-workflow-cleanup-automation": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "team-ai-agent-collaboration": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "ai-ssh-terminal-assistant": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "unattended-ai-agent-communication-inbox": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "persistent-localhost-tunnel-sharing": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-14"
+  },
+  "fast-svelte-web-code-formatter": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-14"
+  },
+  "pdf-to-epub-for-ereaders": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-14"
+  },
+  "mac-instant-game-replay": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-14"
+  },
+  "cloud-storage-agent-data-recovery": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-14"
+  },
+  "lightweight-self-hosted-web-analytics": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "decentralized-dev-tool-sync": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "macos-high-performance-screen-sharing-linux": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "flexible-app-store-pricing-bundles": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-14"
+  },
+  "lightweight-ssh-client-vault-sync": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-14",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-10-14"
   }
 }
