@@ -13466,5 +13466,180 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-10-14"
+  },
+  "ai-agent-authz-prompt-guardrails": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-15"
+  },
+  "accurate-ai-image-deepfake-detection": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-15"
+  },
+  "slow-git-gui": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-15"
+  },
+  "ai-brand-identity-kit": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-15"
+  },
+  "unreliable-pair-programming-tools": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-15"
+  },
+  "ai-logo-mascot-asset-generation": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-15"
+  },
+  "reliable-dedicated-pair-programming-tool": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-15"
+  },
+  "affordable-fast-serp-tools": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-15"
+  },
+  "ai-era-skill-signaling": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-15"
+  },
+  "non-us-productivity-suite-alternatives": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-15"
+  },
+  "affordable-fast-seo-tools-alternatives": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 2,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-15"
+  },
+  "mpe-keyboard-daw-control": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-15"
+  },
+  "untrusted-logic-wasm-runtime": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-15"
+  },
+  "tweet-draft-performance-analysis": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-15"
+  },
+  "multi-ai-model-persistent-context-management": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-15"
+  },
+  "slow-git-gui-performance": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-15"
+  },
+  "secure-dynamic-data-code-interoperability": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-15"
+  },
+  "music-tracking-discovery-sharing": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-15"
+  },
+  "gpx-fit-tcx-tools": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-15"
+  },
+  "terminal-theme-discovery": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-15"
+  },
+  "flexible-project-scaffolding-without-templates": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-15"
+  },
+  "easy-gpx-fit-tcx-file-management": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-15"
+  },
+  "auto-brightness-for-external-monitors": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-15"
+  },
+  "persistent-localhost-tunnel-for-students": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-10-15"
+  },
+  "lua-tui-development-customization": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-10-15"
   }
 }
