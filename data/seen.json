@@ -13641,5 +13641,278 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-10-15"
+  },
+  "proactive-ai-dba-query-optimizer": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 9.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "human-ai-team-collaboration": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-17"
+  },
+  "efficient-ai-token-routing": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-17"
+  },
+  "ai-agent-quality-assurance": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-17"
+  },
+  "efficient-ai-token-management": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-17"
+  },
+  "accurate-cash-flow-forecasting": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-17"
+  },
+  "proactive-dumb-appliance-monitoring": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-17"
+  },
+  "local-multi-cloud-emulation": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-17"
+  },
+  "ai-agent-local-browser-access": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-17"
+  },
+  "private-flexible-anti-detect-browser": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "ai-chat-context-retention": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "frontend-to-backend-auto-connection": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "ai-assisted-world-building": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "dynamic-cash-flow-forecasting": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "ai-driven-file-sorting": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "local-offline-context-search": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "local-media-duplicate-management": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "local-private-media-organization": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-17"
+  },
+  "ai-powered-home-repair-guidance": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-17"
+  },
+  "private-multi-profile-browser": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-17"
+  },
+  "local-modular-llm-orchestration": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-17"
+  },
+  "macos-m-chip-telemetry": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-17"
+  },
+  "pytorch-tensor-practice-platform": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-17"
+  },
+  "local-event-data-api": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-17"
+  },
+  "local-server-routing-debug-tool": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "user-friendly-file-encryption": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "llm-resource-cost-management": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "macos-prompt-management": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "polished-private-email-alternative": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "local-dev-api-proxy-debugger": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "no-account-syncing-tasks": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "multi-llm-agent-orchestration": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-17"
+  },
+  "manage-ai-agent-git-worktrees": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-17"
+  },
+  "simple-customizable-logo-maker": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-17"
+  },
+  "accessible-ai-3d-content-creation": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-17"
+  },
+  "specific-contextual-weather-data": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-17"
+  },
+  "ai-powered-concept-visualization": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-17"
+  },
+  "simple-non-ai-logo-maker": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-10-17"
+  },
+  "ai-regex-explanation": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-10-17"
   }
 }
