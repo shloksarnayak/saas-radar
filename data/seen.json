@@ -11124,10 +11124,10 @@
   },
   "manage-ai-agent-sessions": {
     "first_seen": "2026-09-24",
-    "last_seen": "2026-09-24",
-    "mention_count": 1,
+    "last_seen": "2026-10-26",
+    "mention_count": 2,
     "best_score": 6.0,
-    "last_reported_on": "2026-09-24"
+    "last_reported_on": "2026-10-26"
   },
   "markdown-note-taking-friction": {
     "first_seen": "2026-09-24",
@@ -14999,5 +14999,194 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-10-25"
+  },
+  "ai resistant cognitive assessment": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-26"
+  },
+  "internal-knowledge-base-generation": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-26"
+  },
+  "ai devops grunt work automation": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-26"
+  },
+  "real-time state change monitoring": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-26"
+  },
+  "ai dev cost estimation": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-26"
+  },
+  "personalized search knowledge compounding": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-26"
+  },
+  "llm-to-script-conversion": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-26"
+  },
+  "academic-paper-writing-automation": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-26"
+  },
+  "ai-foia-response-automation": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-26"
+  },
+  "slow-pr-code-review": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-26"
+  },
+  "persistent-ai-agent-memory": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-26"
+  },
+  "secure-data-archiving": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-26"
+  },
+  "multi-ai agent dev orchestration": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-26"
+  },
+  "automated test suite pruning": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-26"
+  },
+  "ai-native-cad-automation": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-26"
+  },
+  "visual-tabular-data-debugger": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-26"
+  },
+  "advanced-browser-tab-management": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-26"
+  },
+  "manage-multiple-projects-portfolio": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-26"
+  },
+  "advanced browser tab management": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-26"
+  },
+  "browser ai 3d design environment": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-26"
+  },
+  "ai agent workflow orchestration": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-26"
+  },
+  "ai-dev-session-management": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-26"
+  },
+  "apple-developer-payment-failures": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-26"
+  },
+  "mobile remote dev agent control": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-26"
+  },
+  "high-performance-spreadsheet": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-26"
+  },
+  "lidar-to-3d-mesh-conversion": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-26"
+  },
+  "visual bug reporting tool": {
+    "first_seen": "2026-10-26",
+    "last_seen": "2026-10-26",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-26"
   }
 }
