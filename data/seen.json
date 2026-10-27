@@ -11124,10 +11124,10 @@
   },
   "manage-ai-agent-sessions": {
     "first_seen": "2026-09-24",
-    "last_seen": "2026-10-26",
-    "mention_count": 2,
-    "best_score": 6.0,
-    "last_reported_on": "2026-10-26"
+    "last_seen": "2026-10-27",
+    "mention_count": 3,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-27"
   },
   "markdown-note-taking-friction": {
     "first_seen": "2026-09-24",
@@ -15188,5 +15188,180 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-10-26"
+  },
+  "advanced-local-ai-desktop": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-27"
+  },
+  "simplified-financial-terminal": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-27"
+  },
+  "ai-agent-secret-leak-detection": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-27"
+  },
+  "platform-for-ai-creations": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-27"
+  },
+  "visual-code-etl-sync": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-27"
+  },
+  "automated-narrated-bug-reports": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-27"
+  },
+  "persistent-local-ai-agent-management": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-27"
+  },
+  "llm-training-data-curation": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-27"
+  },
+  "cost-effective-tsdb-analytics": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-27"
+  },
+  "rp2040-multi-pio-emulator": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-27"
+  },
+  "meaningful-ai-story-games": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-27"
+  },
+  "distributed-local-ai-agents": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-27"
+  },
+  "ephemeral-dev-environments-cost-predictable": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-27"
+  },
+  "code-visual-etl-sync": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-27"
+  },
+  "legitimate-self-promotion-detection": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-27"
+  },
+  "local-ai-app-file-interaction": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-27"
+  },
+  "automated-ai-code-explanation-tours": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-27"
+  },
+  "company-operational-signals-dach": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-27"
+  },
+  "performant-team-ssh-client": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-27"
+  },
+  "ephemeral-cloud-dev-workstations": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-27"
+  },
+  "simple-ai-agent-comm": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-27"
+  },
+  "terminal-dataframe-debugger": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-27"
+  },
+  "advanced-browser-workspace-management": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-27"
+  },
+  "advanced-local-ai-file-interaction": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-27"
+  },
+  "simple-ai-agent-communication": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-27"
   }
 }
