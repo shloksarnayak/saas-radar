@@ -344,10 +344,10 @@
   },
   "ai-agent-long-term-memory": {
     "first_seen": "2026-07-13",
-    "last_seen": "2026-09-07",
-    "mention_count": 2,
+    "last_seen": "2026-10-28",
+    "mention_count": 3,
     "best_score": 8.3,
-    "last_reported_on": "2026-09-07"
+    "last_reported_on": "2026-10-28"
   },
   "ci-cd-secrets-integration": {
     "first_seen": "2026-07-13",
@@ -15363,5 +15363,194 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-10-27"
+  },
+  "automated-vulnerability-monitoring-action": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-28"
+  },
+  "expensive-video-messaging-alternatives": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-28"
+  },
+  "ai-agent-memory-loss": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-28"
+  },
+  "ai-agent-state-management-scaling": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-28"
+  },
+  "ai-agent-backend-deployment-scaling": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-28"
+  },
+  "local-ai-agent-security-cost": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-28"
+  },
+  "developer-workflow-orchestration-overload": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-28"
+  },
+  "ai-agent-credential-leak-prevention": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 2,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-28"
+  },
+  "workflow-customer-data-collection": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-28"
+  },
+  "reliable-ai-agent-market-data-access": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-28"
+  },
+  "customer-data-collection-automation": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-28"
+  },
+  "developer-focus-context-retention-ai": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-28"
+  },
+  "ee-schematic-documentation": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-28"
+  },
+  "hybrid-ai-agent-execution": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-28"
+  },
+  "local-ai-document-image-processing": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-28"
+  },
+  "ai-phone-system-handoff": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-28"
+  },
+  "small-agency-accessibility-reports": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-28"
+  },
+  "local-ai-file-interaction-limitations": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-28"
+  },
+  "outdated-expensive-ats-for-startups": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-28"
+  },
+  "fragmented-travel-information-management": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-28"
+  },
+  "secure-ai-agent-browser-control": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-28"
+  },
+  "word-mail-merge-individual-files": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-28"
+  },
+  "fragmented-travel-info-management": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-28"
+  },
+  "game-engine-ui-development-hassle": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-28"
+  },
+  "mac-developer-storage-visibility": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-28"
+  },
+  "macos-face-unlock-webcam": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-28"
+  },
+  "ai-agent-minimal-cms": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-28"
   }
 }
