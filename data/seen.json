@@ -8394,10 +8394,10 @@
   },
   "llm-token-cost-optimization": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
-    "mention_count": 1,
+    "last_seen": "2026-10-29",
+    "mention_count": 2,
     "best_score": 8.3,
-    "last_reported_on": "2026-09-04"
+    "last_reported_on": "2026-10-29"
   },
   "llm-tooling-api-standardization": {
     "first_seen": "2026-09-04",
@@ -15552,5 +15552,243 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-10-28"
+  },
+  "accurate-address-based-sales-tax-api": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-29"
+  },
+  "versioned-ai-software-spec-management": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-10-29"
+  },
+  "app-store-review-friction": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-29"
+  },
+  "ee-design-documentation-ai": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-29"
+  },
+  "granular-personalized-language-learning": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-29"
+  },
+  "curated-kid-safe-video-content": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-29"
+  },
+  "sketch-to-wireframe-ai": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 2,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-29"
+  },
+  "llm-context-management-efficiency": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 2,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-29"
+  },
+  "prediction-market-financial-impact": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-29"
+  },
+  "ai-proof-engineering-hiring": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-29"
+  },
+  "multi-platform-software-builds": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-29"
+  },
+  "automated-pre-prod-chaos-testing": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-29"
+  },
+  "personalized-language-learning-app": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-29"
+  },
+  "multi-turn-decision-model-interface": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-29"
+  },
+  "personalized-language-learning-path": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-29"
+  },
+  "cost-effective-data-observability": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-29"
+  },
+  "image-to-parametric-3d-model": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-29"
+  },
+  "verifiable-tax-calculation-engine": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-29"
+  },
+  "micro-payment-crypto-data-api": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-29"
+  },
+  "manage-ai-guardrail-config": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-29"
+  },
+  "automated-browser-tab-grouping": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-29"
+  },
+  "cost-effective-web-hosting-migration": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-29"
+  },
+  "multi-platform-software-packaging": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-29"
+  },
+  "rust-developer-experience-friction": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-29"
+  },
+  "multi-ai-agent-collaboration": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-29"
+  },
+  "high-performance-git-client": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-29"
+  },
+  "dietary-restriction-translation-tool": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-29"
+  },
+  "self-hosted-3d-model-management": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-29"
+  },
+  "all-in-one-website-toolkit": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-29"
+  },
+  "client-side-dev-tools-privacy": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-29"
+  },
+  "offline-markdown-editor-ai": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-29"
+  },
+  "freemium-monetization-childrens-app": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-29"
+  },
+  "paywall-content-access-tool": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-29"
+  },
+  "personal-knowledge-management": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-10-29"
   }
 }
