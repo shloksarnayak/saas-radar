@@ -15790,5 +15790,117 @@
     "mention_count": 1,
     "best_score": 6.3,
     "last_reported_on": "2026-10-29"
+  },
+  "fast-firmware-validation-without-hardware": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-10-31"
+  },
+  "secure-mac-iscsi-initiator": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-31"
+  },
+  "expensive-slow-browser-automation-agents": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-10-31"
+  },
+  "incomplete-ai-code-analysis": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-31"
+  },
+  "slow-kotlin-tooling-performance": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 2,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-31"
+  },
+  "agent-code-human-validation-gap": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-10-31"
+  },
+  "inefficient-data-sync-bandwidth": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-31"
+  },
+  "ssh-key-config-management": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-31"
+  },
+  "inaccurate-ai-sql-queries": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-31"
+  },
+  "ai-induced-mental-overload": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-10-31"
+  },
+  "ecomm-fundamental-security-negligence": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-31"
+  },
+  "privacy-focused-budgeting-app": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-31"
+  },
+  "identifying-unmet-software-needs": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-31"
+  },
+  "clunky-canvas-ai-chat-interfaces": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-10-31"
+  },
+  "ai-spam-filter-bypass": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-10-31"
+  },
+  "problematic-manual-changelog-updates": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-10-31"
   }
 }
