@@ -1247,10 +1247,10 @@
   },
   "multi-ai-agent-management": {
     "first_seen": "2026-07-19",
-    "last_seen": "2026-09-06",
-    "mention_count": 2,
+    "last_seen": "2026-11-01",
+    "mention_count": 3,
     "best_score": 8.3,
-    "last_reported_on": "2026-09-06"
+    "last_reported_on": "2026-11-01"
   },
   "ai-long-term-memory": {
     "first_seen": "2026-07-19",
@@ -15902,5 +15902,159 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-10-31"
+  },
+  "advanced-personal-digital-asset-security": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-11-01"
+  },
+  "ai-agent-sql-accuracy-data-context": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-11-01"
+  },
+  "realistic-virtual-breadboard-editor": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 2,
+    "best_score": 8.0,
+    "last_reported_on": "2026-11-01"
+  },
+  "expensive-infrequent-screen-recording-saas": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-11-01"
+  },
+  "cost-speed-browser-automation": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-11-01"
+  },
+  "search-engine-penalizes-legitimate-content": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-01"
+  },
+  "social-media-addiction-control": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-01"
+  },
+  "integrate-ai-agents-project-management": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-01"
+  },
+  "inefficient-pr-review-process": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-01"
+  },
+  "useful-content-search-visibility": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-01"
+  },
+  "ai-agent-async-notification": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-01"
+  },
+  "ai-agent-self-review-bias": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-01"
+  },
+  "bandwidth-inefficient-remote-file-sync": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-11-01"
+  },
+  "high-cost-ai-saas-alternatives": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-11-01"
+  },
+  "ai-agent-model-orchestration": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-11-01"
+  },
+  "ai-chat-interface-context-management": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-11-01"
+  },
+  "musician-songwriting-practice-management": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-11-01"
+  },
+  "vc-specialized-note-taking": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-11-01"
+  },
+  "informed-voter-research-time": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-11-01"
+  },
+  "independent-scientific-collaboration-access": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-11-01"
+  },
+  "llm-effectiveness-for-robotics": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 6.3,
+    "last_reported_on": "2026-11-01"
+  },
+  "news-article-bias-detection": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-11-01"
   }
 }
