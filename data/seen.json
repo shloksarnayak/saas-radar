@@ -2808,10 +2808,10 @@
   },
   "ai-coding-agent-management": {
     "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "mention_count": 1,
-    "best_score": 7.3,
-    "last_reported_on": "2026-07-26"
+    "last_seen": "2026-11-03",
+    "mention_count": 2,
+    "best_score": 8.7,
+    "last_reported_on": "2026-11-03"
   },
   "weather-based-travel-planner": {
     "first_seen": "2026-07-26",
@@ -16056,5 +16056,222 @@
     "mention_count": 1,
     "best_score": 6.0,
     "last_reported_on": "2026-11-01"
+  },
+  "ai-command-safety-review": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-11-03"
+  },
+  "managing-ai-coding-agents": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 8.7,
+    "last_reported_on": "2026-11-03"
+  },
+  "llm-tool-context-bloat": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-11-03"
+  },
+  "llm-long-term-memory": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 2,
+    "best_score": 8.3,
+    "last_reported_on": "2026-11-03"
+  },
+  "real-world-speaking-practice": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 8.3,
+    "last_reported_on": "2026-11-03"
+  },
+  "autonomous-agent-payment-friction": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-11-03"
+  },
+  "captcha-bot-detection-ux": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-11-03"
+  },
+  "llm-model-cost-performance-optimization": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-11-03"
+  },
+  "infrastructure-aware-ai-code-review": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-11-03"
+  },
+  "ai-agent-tool-schema-drift-testing": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-11-03"
+  },
+  "iot-device-network-isolation": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-11-03"
+  },
+  "simple-saas-crm-onboarding": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 8.0,
+    "last_reported_on": "2026-11-03"
+  },
+  "medical-report-llm-interpretation": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-03"
+  },
+  "rag-pipeline-evaluation": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-03"
+  },
+  "software-development-traceability": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-03"
+  },
+  "smart-tv-privacy-control": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-03"
+  },
+  "async-work-messaging-focus": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-03"
+  },
+  "software-artifact-traceability": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.7,
+    "last_reported_on": "2026-11-03"
+  },
+  "anti-circumvention-productivity-blocker": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-11-03"
+  },
+  "privacy-focused-note-taking": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-11-03"
+  },
+  "developer-tool-promotion-support": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-11-03"
+  },
+  "hn-hiring-thread-parser": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-11-03"
+  },
+  "robust-cross-platform-app-blocker": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-11-03"
+  },
+  "hvac-load-calculator": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.3,
+    "last_reported_on": "2026-11-03"
+  },
+  "ai-image-watermark-removal": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-11-03"
+  },
+  "content-algo-fatigue-passive-browsing": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-11-03"
+  },
+  "spoiler-free-sports-viewing": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 7.0,
+    "last_reported_on": "2026-11-03"
+  },
+  "complex-model-visualizer-playground": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-11-03"
+  },
+  "expense-splitting-app-ui": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-11-03"
+  },
+  "interactive-svg-device-mockups": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 6.7,
+    "last_reported_on": "2026-11-03"
+  },
+  "mobile-hacker-news-reader": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "mention_count": 1,
+    "best_score": 6.0,
+    "last_reported_on": "2026-11-03"
   }
 }
